@@ -24,12 +24,12 @@ Directories
 - **in**: input test stellar spectra with different formats
 - **bs**: benchmark stars - optical spectra of the Sun and Arcturus in binary format
 - **ll**: linelists - list of lines for visual identification
-				  Fraunhofer lines,  
-				  solar lines (Moore 1966),  
-				  stellar lines (Coluzzi 1993),  
-				  stellar lines only with stellar type (Coluzzi 1993),  
-				  molecular lines (Turnshek 1985, based on cool K and M stars)  
-				  VALD (exhaustive linelist, not very useful for the moment)  
+				  * Fraunhofer lines,  
+				  * solar lines (Moore 1966),  
+				  * stellar lines (Coluzzi 1993),  
+				  * stellar lines only with stellar type (Coluzzi 1993),  
+				  * molecular lines (Turnshek 1985, based on cool K and M stars)  
+				  * VALD (exhaustive linelist, not very useful for the moment)  
 
 Application
 -----------
@@ -51,15 +51,15 @@ Spectra can be either in ASCII, FITS or binary (little-endian) format.
 Format is basically two columns with wavelengths (in Å but can manage also nm) and flux. 
 
 Default name of input file is `speclist.txt`  
-If pspec is run without name of spectrum or input filename,  
+If `pspec` is run without name of spectrum or input filename,  
 it is `speclist.txt` which is read.
 
 Default configuration
 ---------------------
 
-The default configuration is defined in the \_\_main\_\_ of python program pspec.py.
+The default configuration is defined in the \_\_main\_\_ of python program `pspec.py`.
 
-- Default input filename: 'speclist.txt'
+- Default input filename: `speclist.txt`
 - Default central wavelength: 6569.214 Å (Fe I line in the red wing of Halpha)
 - Default wavelength range: 20.001 Å
 - Default border width for broadening: 3.0 Å  
@@ -79,11 +79,11 @@ This will try to find a input file name `speclist.txt` and display the spectra w
 
 - The secund simplest way is: 
 
-    $ pspec path_and_name_of_your_spectrum
+    $ pspec path\_and\_name\_of\_your\_spectrum
 
-  E.g:
+E.g:
     
-    $ pspec bb/sun_kpno.bin
+    $ pspec bs/sun_kpno.bin
 
 This will display the spectrum over its entire wavenlength range
    
