@@ -33,10 +33,9 @@ Directories
 
 Application
 -----------
-`pspec.py` - python 2.7 tool to plot spectra based on matplotlib graphic library 
-		   modules required:  
-		   in standard library: `os`, `struct`, `argparse`  
-		   not in standard library: `pylab` and `pyfits`  
+`pspec.py` - python 2.7 tool to plot spectra based on matplotlib graphic library modules required:  
+		   * in standard library: `os`, `struct`, `argparse`  
+		   * not in standard library: `pylab` and `pyfits`  
 
 Input files
 -----------
@@ -73,16 +72,18 @@ How to run pspec?
 
 - The simplest way is: 
 
+
     $ pspec
 
 This will try to find a input file name `speclist.txt` and display the spectra with their specifications.
 
-- The secund simplest way is: 
+- The secund simplest way is:
+
 
     $ pspec path\_and\_name\_of\_your\_spectrum
 
 E.g:
-    
+
     $ pspec bs/sun_kpno.bin
 
 This will display the spectrum over its entire wavenlength range
@@ -93,8 +94,9 @@ What and how can I plot with `pspec`?
 - Imagine that you have 3 observed spectra (`spec1.fits`, `spec2.fits` and `spec3.fits`) 
 that you want to visually inspect between 5160 and 5190 Å with line identification.
 
-    $ pspec spec1.fits spec2.fits spec3.fits -wmin 5160 -wmax 5190 -nn -vs 1 -l 
 
+    $ pspec spec1.fits spec2.fits spec3.fits -wmin 5160 -wmax 5190 -nn -vs 1 -l
+    
 which is strictly equivalent to:
 
     $ pspec spec1.fits spec2.fits spec3.fits -w 5175 -r 30 -nn -vs 1 -l
@@ -113,10 +115,10 @@ options are strictly equivant to give the central wavelength (`-w`) and the rang
 
 Your input file could be as:
 
-\# Path and name of spectra | Legend |unit|sym| shift | save | broadening | group | absolute legend position  
-in/test.bin                |theo    |    |   |       |      |    6       | 1     | 0.9  
-in/test.fit                |obs     |    |   |       |      |            | 1     | 1.1  
-bs/sun_kpno.bin            |  Sun   |    |   |       |      |            | 2     |   
+    # Path and name of spectra | Legend |unit|sym| shift | save | broadening | group | absolute legend position  
+    in/test.bin                |theo    |    |   |       |      |    6       | 1     | 0.9  
+    in/test.fit                |obs     |    |   |       |      |            | 1     | 1.1  
+    bs/sun_kpno.bin            |  Sun   |    |   |       |      |            | 2     |   
 
 The line command could be as:  
 
@@ -127,16 +129,18 @@ How to make available pspec where ever you are?
 
 - Link it in e.g. $HOME/bin:
 
+
     $ ln -s pspec.py $HOME/bin
 
 - create an alias in your hidden configuration file  
  For bash shell in .bashrc:
 
- 	alias pspec=/home/tmerle/dev/pspec/pspec.py
+
+     alias pspec=/home/tmerle/dev/pspec/pspec.py
 
  For tcsh shell in .tcshrc:
 
- 	alias pspec '/home/tmerle/dev/pspec/pspec.py' 
+     alias pspec '/home/tmerle/dev/pspec/pspec.py' 
 
 How to configure an input file?
 -------------------------------
