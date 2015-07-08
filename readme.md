@@ -1,4 +1,6 @@
-## pspec.py ## version 1.2 ## T. Merle ## 2014-06-27 ##
+![alt text](http://www.astro.ulb.ac.be/~merle/pmwiki/pub/ani/dwarfs_c_c2_ch.gif "Pspec")
+
+## pspec.py ## version 1.2 ## T. Merle ## 2015-07-08 ##
 
 pspec is a versatile line command tool for interactive plotting and comparing stellar spectra.
 To get help on line command arguments, type pspec.py -h
