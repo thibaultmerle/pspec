@@ -1,8 +1,12 @@
+## pspec.py  
+## version 1.2   
+## T. Merle  
+## 2015-07-08  
+
 ![alt text](http://www.astro.ulb.ac.be/~merle/pmwiki/pub/ani/dwarfs_c_c2_ch.gif "Pspec")
 
-## pspec.py ## version 1.2 ## T. Merle ## 2015-07-08 ##
 
-pspec is a versatile line command tool for interactive plotting and comparing stellar spectra.
+pspec is a versatile line command tool for interactive plotting and comparing stellar spectra.  
 To get help on line command arguments, type pspec.py -h
 Write an output plot in plot.png (see -o option for specifying name and extension [eps|pdf|png]) 
 
@@ -17,22 +21,22 @@ Main options for comparison are:
 
 Directories
 -----------
-in - input test stellar spectra with different formats
-bs - benchmark stars - optical spectra of the Sun and Arcturus in binary format
-ll - linelists - list of lines for visual identification
-				  Fraunhofer lines, 
-				  solar lines (Moore 1966), 
-				  stellar lines (Coluzzi 1993),
-				  stellar lines only with stellar type (Coluzzi 1993),
-				  molecular lines (Turnshek 1985, based on cool K and M stars)
-				  VALD (exhaustive linelist, not very useful for the moment) 
+**in** - input test stellar spectra with different formats
+**bs** - benchmark stars - optical spectra of the Sun and Arcturus in binary format
+**ll** - linelists - list of lines for visual identification
+				  Fraunhofer lines,  
+				  solar lines (Moore 1966),  
+				  stellar lines (Coluzzi 1993),  
+				  stellar lines only with stellar type (Coluzzi 1993),  
+				  molecular lines (Turnshek 1985, based on cool K and M stars)  
+				  VALD (exhaustive linelist, not very useful for the moment)  
 
 Application
 -----------
 pspec.py - python 2.7 tool to plot spectra based on matplotlib graphic library 
-		   modules required:
-		   in standard library: os, struct, argparse
-		   not in standard library: pylab and pyfits
+		   modules required:  
+		   in standard library: os, struct, argparse  
+		   not in standard library: pylab and pyfits  
 
 Input files
 -----------
@@ -43,12 +47,12 @@ This is main advantage of pspec: the input is versatile. It can be:
 - a list of files
 - a combination of spectra and files
 
-Spectra can be either in ASCII, FITS or binary (little-endian) format.
+Spectra can be either in ASCII, FITS or binary (little-endian) format.  
 Format is basically two columns with wavelengths (in Å but can manage also nm) and flux. 
 
-Default name of input file is speclist.txt
-If pspec is run without name of spectrum or input filename,
-it is speclist.txt which is read.
+Default name of input file is speclist.txt  
+If pspec is run without name of spectrum or input filename,  
+it is **speclist.txt** which is read.
 
 Default configuration
 ---------------------
