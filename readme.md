@@ -6,7 +6,7 @@
 ![alt text](http://www.astro.ulb.ac.be/~merle/pmwiki/pub/ani/dwarfs_c_c2_ch.gif "Pspec")
 
 
-pspec is a versatile line command tool for interactive plotting and comparing stellar spectra.  
+`pspec` is a versatile line command tool for interactive plotting and comparing stellar spectra.  
 To get help on line command arguments, type pspec.py -h
 Write an output plot in plot.png (see -o option for specifying name and extension [eps|pdf|png]) 
 
@@ -21,9 +21,9 @@ Main options for comparison are:
 
 Directories
 -----------
-**in** - input test stellar spectra with different formats
-**bs** - benchmark stars - optical spectra of the Sun and Arcturus in binary format
-**ll** - linelists - list of lines for visual identification
+- **in**: input test stellar spectra with different formats
+- **bs**: benchmark stars - optical spectra of the Sun and Arcturus in binary format
+- **ll**: linelists - list of lines for visual identification
 				  Fraunhofer lines,  
 				  solar lines (Moore 1966),  
 				  stellar lines (Coluzzi 1993),  
@@ -57,7 +57,7 @@ it is **speclist.txt** which is read.
 Default configuration
 ---------------------
 
-The default configuration is defined in the __main__ of python program pspec.py.
+The default configuration is defined in the \_\_main\_\_ of python program pspec.py.
 
 Default input filename: 'speclist.txt'
 Default central wavelength: 6569.214 Å (Fe I line in the red wing of Halpha)
@@ -110,12 +110,12 @@ options are strictly equivant to give the central wavelength (-w) and the range 
 
 Your input file could be as:
 
-# Path and name of spectra | Legend |unit|sym| shift | save | broadening | group | absolute legend position
-in/test.bin                |theo    |    |   |       |      |    6       | 1     | 0.9
-in/test.fit                |obs     |    |   |       |      |            | 1     | 1.1
-bs/sun_kpno.bin            |  Sun   |    |   |       |      |            | 2     | 
+\# Path and name of spectra | Legend |unit|sym| shift | save | broadening | group | absolute legend position  
+in/test.bin                |theo    |    |   |       |      |    6       | 1     | 0.9  
+in/test.fit                |obs     |    |   |       |      |            | 1     | 1.1  
+bs/sun_kpno.bin            |  Sun   |    |   |       |      |            | 2     |   
 
-The line command could be as:
+The line command could be as:  
 $ pspec -w 8498 -r 20 -nn -l -vs 1
 
 How to make available pspec where ever you are?
@@ -155,32 +155,32 @@ The order of the parameters matters.
 - The absolute legend position in ordinate coordinate level 
 - Individual normalization parameter (1 or 2 for constant/linear normalization): without effect if the command line option -n or -nn is used
 
-You can comment a line using # character.
-All parameters are optional.
-If you need the 3rd parameter just let field empty not forgetting fied separator.
-E.g: 
-$ cat speclist.txt
+You can comment a line using \# character.  
+All parameters are optional.  
+If you need the 3rd parameter just let field empty not forgetting fied separator.  
+E.g:  
+$ cat speclist.txt  
 bs/sun_kpno.bin | | |'r-'|
 
-Default options:
-legend: None
-unit of wavelenght: Å
-symbol: matplotlib default
-wavelength shift: 0 Å
-save: False
-broadening: 0 km/s
-group option: None
-absolute legend position: None
+Default options:  
+legend: None  
+unit of wavelenght: Å  
+symbol: matplotlib default  
+wavelength shift: 0 Å  
+save: False  
+broadening: 0 km/s  
+group option: None  
+absolute legend position: None  
 
 An example of an extensive input file:
 
 $ cat speclist.txt
-# Path and name of spectra | Legend |unit|sym| shift | save | broadening | group | absolute legend position | normalization
-bs/sun_kpno.bin            |  Sun   |    |r- |       | True |   6        |       |
-bs/arcturus_hermes.bin     |Arcturus|    |b- | -0.2  |      |            |       |
+\# Path and name of spectra | Legend |unit|sym| shift | save | broadening | group | absolute legend position | normalization  
+bs/sun_kpno.bin            |  Sun   |    |r- |       | True |   6        |       |  
+bs/arcturus_hermes.bin     |Arcturus|    |b- | -0.2  |      |            |       |  
 
 Bugs report
 -----------
-Please send an email to tmerle@ulb.ac.be for any comments or bugs to fix.
+Please send an email to thibault@merle.fr for any comments or bugs to fix.
 
 gir_19235180+0048006_H875.7.fit from GES DR1 => test.fit, test.dat, test.bin
