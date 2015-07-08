@@ -1,0 +1,5 @@
+# Path and name of spectra | Legend |unit|sym| shift | save | broadening | group | absolute legend position | normalization
+bs/arcturus_hermes.bin     |Arcturus|    |   |       |      |            |       |
+#in/test.bin               |theo    |    |   |       |      |    6       | 1     | 1.1
+#in/test.fit               |obs     |    |   |       |      |            | 1     | 0.9
+bs/sun_kpno.bin            |  Sun   |    |   |       |      |            | 2     | 2

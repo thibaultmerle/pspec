@@ -1,0 +1,151 @@
+CH Gband 4290     # Strong in all G stars except those of class G O-Ia and G I; 
+CH Gband 4314     # weakens by K2III and K5V. 
+Hgamma   4341     # Weakens in later types; disappears at about early M O-Ia, K0III, K7V; stronger in supergiant than dwarfs.
+FeI      4384     # The last, trong visible line used in the MK blue system of classification; seen in G0-K7V, F8-K5III, G2-M2Ib, and F9-early M O-Ia; stronger in supergiant than dwarfs.
+TiO      4462     # Appears at about M5-M6.
+BaII     4554     # Marginally visible in very luminous supergiants; shows very little temperature dependance; visible in F9-K0 (O-Ia and Iab); identifiable to K4Ib, marginally visible at M2Ib; enhanced in Barium and Semmi-Barium stars along with Sr II at 4077 Å.
+TiO      4584     # Distinct by M4.
+TiO      4626     # Distinct by M4.
+TiO      4761     # Barely visible in M1III.
+TiO      4804     # Distinct by M3.
+MgH      4845     # Visible in late K and M dwarfs as a wide band with maximum absorption at 4780 Å.
+TiO      4848     # Distinct by M4.
+Hbeta    4861     # Decreasing in strength in later types; not visible at K0 O-Ia,M2Iab, M2Ib, M1.5IIa, K0II, and K2V; most distinct in Iab and Ib.
+TiO      4954     # Only TiO band seen clearly from 3800-5000 Å in all lumninosity classes at K5. Strong FeI line blend at 4957 Å.
+TiO      5003     # Distinct by M3.
+TiO      5167     # Visible by M3III; dominated by Mg "b" in dwarfs.
+Mg b     5167     # Visible in all G, K, and M star spectra 
+Mg b     5173     # until M4III, M6.5V; 
+Mg b     5184     # greatly enhanced in dwarfs.
+al blend 5206     # Atomic line blend composed mainly o lines of FeI, TiI, and CrI blended with MgH.
+MgH      5211     # Observed as a broad (~300 Å) absorption feature in M dwarfs; degrades toward violet; see Spinrad and Wood (1965).
+VO       5228     # Barely visible later than M8III.
+TiO      5241     # Blended with atomic lines in middle M stars. Blended with VO at M7III.
+al blend 5250     # Strength due primarily to inersystem lines of FeI (a5D-z7D°). Strength increases with luminosity in K and M types (see Fitch an Morgan 1951).
+al blend 5270     # Atomic line blend composed primarily of lines of CaI, FeI, TiI, and CrI.
+VO       5276     # Present after M8III.
+TiO      5448     # Seen in all M stars.
+VO       5469     # Seen in M7III or later; increasing strength indicates later types.
+TiO      5497     # Seen clearly by M2.
+VO       5517     # Present after M7III.
+CaOH     5530     # Prominent in dwarfs later than M3;
+CaOH     5570     # forms boxline feature which becomes deeper in later types (Pesch 1972).
+TiO      5569     # Visible in all M5 and later giants.
+OI atm   5570     # Nigth sky emision.
+al blend 5590     # Atomic line blend composed chiefly of CaI and FeI lines. Prominent in late K and early M stars.
+TiO      5598     # Present at M2.
+al blend 5602     # Atomic line blend composed chiefly of Ca I and Fe I lines. Prominent in late K and early M stars.
+MgH      5621     # Broad feature marginally visible in late K, early M dwarf spectra.
+TiO      5629     # Distinct by M2.
+TiO      5661     # Distinct by M2.
+VO       5737     # Seen in M7 or later; increasing strength indicates later types; degraded towards the red.
+TiO      5759     # Distinct by M3.
+TiO      5810     # Visible at M2 to M3.
+TiO      5862     # Visible at M0 to M1.
+NaI D    5890     # Visible in all G, K and early M stars;
+NaI D    5896     # by M2III overwhelmed by TiO absorption.
+VO       6086     # Marginally visible in M7III and later types.
+CaI      6103     # Enhanced in 
+CaI      6122     # M dwarfs.
+BaII     6130     # Marginally visible in G and early K very luminous supergiants, enhanced in Barium stars.
+TiO      6159     # Seen in all spectra by K5.
+CaI      6162     # Enhanced in M dwarfs.
+TiO      6187     # Marginally visible by K5.
+TiO      6215     # Marginally visible by K5.
+CaOH     6230     # Maximum at 6230 Å; a diffus band over 100 Å wide; see Gaydon (1955).
+al blend 6362     # Atomic line blend of intersystem of FeI, TiI and CrI. See Boeshaar (1976) and Smethells (1974). Strengthens with increasing luminosity in K and M stars.
+CaH      6385     # Band used as M dwarf indicator; moderately sensitive to temperature.
+VO       6478     # Marginally visible in M7III and later types.
+al blend 6497     # Atomic line blend including FeI, BaI, CaI, MnI, CoI, TiI and II and NiI; strongest in supergiants and stars with high metal abundances.
+VO       6532     # Marginally visible in M7III and later types.
+H alpha  6562     # Weakens with increasing spectral type, decreasing luminosity; often in emission in M stars, therefore, cannot be used as a classification criterion.
+TiO      6569     # Marginally visible in early M.
+TiO      6596     # Marginally visible in early M.
+TiO      6629     # Marginally visible in early M.
+TiO      6652     # Visible from M0.
+TiO      6681     # Visible from M0.
+LiI      6707     # Not used in temperature or luminosity classification.
+TiO      6714     # Visible from M0.
+TiO      6719     # Blended with 6714 TiO band.
+O2 B atm 6867     # Atmospheric B-band.
+TiO      6852     # Blended with atmospheric B-band.
+CaH      6909     # Degraded to the violet; in M dwarfs several bands of CaH serve to widen and deepen the series of TiO bands in this region; 
+CaH      6946     # depression over 300 Å wide. Blended with atmospheric 02 B-band. See Treanor and McCarthy (1966).
+FeI      6945     # Faintly visible in 
+FeI      6979     # G, K and M supergiants;
+FeI      7016     # maximum about K2Ib;
+CoI      7016     # and visible beyond early M.
+TiO      7055     # Clearly visible in all luminosity classes after K5.
+TiO      7088     # Visible at K5.
+TiO      7126     # Visible at K5.
+TiO      7159     # Marginally visible in early M stars. 
+H2O atm  7186     # Beginning of atmospheric band with last bandhead at 7273 Å; degraded to the red.
+TiO      7198     # Distinct from   
+TiO      7219     # atmospheric water 
+TiO      7269     # absorption by M1. 
+VO       7334     # Observed distincly in stars later than M7.
+VO       7372     # Observed distincly in stars later than M7.
+VO       7393     # Observed distincly in stars later than M7.
+VO       7405     # Observed distincly in stars later than M7.
+VO       7418     # Observed distincly in stars later than M7.
+VO       7472     # Observed distincly in stars later than M7.
+TiO      7590     # Blended into atmospheric A-band.
+O2 A atm 7594     # Very strong atmospheric A-band; sharply double peaked.
+TiO      7628     # Blended into atmospheric 02 A-band.
+KI       7665     # Very strong and wide in dwarfs by M3;
+KI       7699     # increasing in strengthto later types, much weaker in giants.
+TiO      7666     # These effect of these bands on the 
+TiO      7672     # spectra of M stars is a wide
+TiO      7705     # depression of the region immediately
+TiO      7820     # following the 02 atmospheric band. This
+TiO      7828     # is first noticed at about M2 and becomes very pronounced by M5
+TiO      7861     # (all luminosity classes).
+VO       7851     # Observed in stars later than M7.
+VO       7866     # Observed in stars later than M7.
+VO       7896     # Observed in stars later than M7.
+VO       7918     # Observed in stars later than M7.
+VO       7939     # Observed in stars later than M7.
+VO       7960     # Observed in stars later than M7.
+VO       7973     # Observed in stars later than M7.
+TiO      7907     # Marginally visible in M stars.
+TiO      7949     # Marginally visible in M stars.
+H2O atm  8164     # Weak atmospheric absorption;
+H2O atm  8177     # degraded to red.
+NaI      8183     # Strong in 
+NaI      8195     # dwarfs.
+H2O atm  8227     # Weak atmospheric absorption; degraded to the red.
+TiO      8250     # Observed in M stars.
+TiO      8334     # Observed in M stars.
+TiO      8289     # Observed in M stars.
+TiO      8372     # Observed in M stars.
+TiO      8303     # Observed in M stars.
+TiO      8386     # Observed in M stars.
+TiO      8419     # Observed in M stars.
+TiO      8513     # Observed in M stars.
+TiO      8457     # Observed in M stars.
+TiO      8558     # Observed in M stars.
+TiO      8472     # Observed in M stars.
+TiO      8569     # Observed in M stars.
+TiO      8505     # Observed in M stars.
+#
+ZrO      5551.7   # from Ake, ApJ 1979
+ZrO      5577     # from Ake, ApJ 1979
+ZrO      5629.0   # from Ake, ApJ 1979
+ZrO      5658.1   # from Ake, ApJ 1979
+ZrO      5718.1   # from Ake, ApJ 1979
+ZrO      5748.1   # from Ake, ApJ 1979
+ZrO      5849.4   # from Ake, ApJ 1979
+ZrO      5892.8   # from Ake, ApJ 1979
+ZrO      5926.4   # from Ake, ApJ 1979
+ZrO      5977.7   # from Ake, ApJ 1979
+ZrO      6021.3   # from Ake, ApJ 1979
+ZrO      6153.3   # from Ake, ApJ 1979
+ZrO      6229.4   # from Ake, ApJ 1979
+ZrO      6261.0   # from Ake, ApJ 1979
+ZrO      6292.8   # from Ake, ApJ 1979
+ZrO      6344.9   # from Ake, ApJ 1979
+ZrO      6378.4   # from Ake, ApJ 1979
+ZrO      6412.3   # from Ake, ApJ 1979
+ZrO      6473.7   # from Ake, ApJ 1979
+ZrO      6508.0   # from Ake, ApJ 1979
+ZrO      6542.8   # from Ake, ApJ 1979

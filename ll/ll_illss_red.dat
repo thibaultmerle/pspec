@@ -1,0 +1,1277 @@
+FeI       3440.610  (   6)[J150R] {F0-K5V;F5-K0II}
+FeI       3440.989  (   6)[J75R] {F0-K5V;F5-K0II}
+FeI       3443.878  (   6)[A50r] {F5-K0II}
+NiI       3458.474  (  19)[B125R] {F0-K5V;F5-K3II}
+NiI       3461.652  (  17)[B125R] {F0-K5V;F5-K3II}
+FeI       3465.863  (   6)[A60r] {G0-K5V;F5-K3II}
+NiI       3472.545  (  20)[B70R] {G0-K5V}
+FeI       3475.450  (   6)[G70r] {F0-K5V;F5-K3II}
+FeI       3476.704  (   6)[A40] {G0-K5V;K0-K3II}
+MnII      3482.905  (   3)[A40] {F5-K0II}
+NiI       3483.774  (   6)[B25R] {G0-K2V}
+HeI       3487.721  (  42)[D(1)] {B2-B7IV}
+MnII      3488.676  (   3)[A40] {F5-K0II}
+FeI       3490.575  (   6)[A100r] {G0V-K0Ib}
+NiI       3492.956  (  18)[B150R] {F0-K5V;G0-K0Ib}
+S III     3497.340  (    )[A5] {O9-B9Ia}
+FeI       3497.843  (   6)[A40] {F0-K5V;F5-K3II;G0-K0Ib}
+HeI       3498.641  (  40)[D(1)] {B2-B7IV}
+NiI       3510.338  (  18)[B80R] {G0-K2V;F5-K0II}
+HeI       3512.511  (  38)[D(1)] {O9-A0V;B2-B7IV;B2-B9Ib}
+FeI       3513.820  (  24)[B30] {G0II-K3Iab}
+NiI       3515.054  (  19)[B150R] {G0V-K3Iab}
+NiI       3519.766  (   5)[B20R] {G0-K3Iab}
+FeI       3521.264  (  24)[B25] {G0V-K0Ib}
+NiI       3524.541  (  18)[B200R] {F0V-K3II;G0Ib-K3Iab}
+V II      3524.713  (   5)[A200] {F0-G5III}
+FeI       3526.039  (   6)[J20] {G0V-K1IV;G5-K5III;K0-K3II}
+HeI       3530.487  (  36)[D(1)] {O9V-B9Ia}
+FeI       3537.729  ( 239)[J3] {K0-K3II}
+FeI       3537.896  ( 327)[J4] {K0-K3II}
+FeI       3540.709  (  23)[J3] {G0-K2V;F5-K3II}
+MnI       3547.802  (  18)[B50] {F0-F8V;K0-K3II}
+MnI       3548.029  (  18)[B40] {F0-F8V;K0-K3II}
+MnI       3548.202  (  18)[B30] {F0-F8V;K0-K3II}
+FeI       3554.122  (  23)[J4] {G0-K0Ib}
+HeI       3554.394  (  34)[D(1)] {O9V-B9Ia}
+HeI       3554.524  (  34)[D(1)] {O9V-B9Ia}
+FeI       3554.922  ( 326)[G40] {F0-G8V;F5-K3II;G0-K0Ib}
+V II      3556.800  (   5)[A1500] {A0-F8Ia}
+FeI       3556.877  ( 327)[G7] {G0-K0Ib}
+FeI       3558.518  (  24)[B30] {F0-G8V;F5-K3II;G0-K0Ib}
+CoI       3564.947  (  19)[A25r] {F5-K3Iab}
+FeI       3565.381  (  24)[B60r] {A0V-K1IV;F0-K5III;F5II-K3Iab}
+NiI       3566.372  (  36)[B100R] {G0V-K3Iab}
+MnI       3570.041  (  18)[B20] {G5IV-K5III;K0-K3II}
+FeI       3570.100  (  24)[G100R] {F0V-K0Ib}
+NiI       3571.869  (   5)[B50R] {G0-K5V;G0-K3Iab}
+ScII      3572.523  (   3)[A50] {F0-G5III}
+ScII      3576.340  (   3)[A35] {F0-G5III}
+NiII      3576.762  (   4)[B3] {A0-A7V}
+FeI       3578.380  ( 321)[U(1)] {G5-K5III}
+CrI       3578.687  (   4)[C1000R] {K0-M2III;K0-M2Iab}
+FeI       3581.195  (  23)[B250R] {A0V-K5Ia}
+CrII      3585.31   (  13)[A60] {A3-A7V;A0-G5III;A0-F8Ia}
+FeI       3585.320  (  23)[B30] {A0V-K3IV;F0-K5III;G0II-K3Iab}
+CrII      3585.54   (  13)[A40] {A3V-A7V;A0-G5III;A0-F8Ia}
+FeI       3585.708  (  23)[J20] {A0V-K2IV;F0-K5III;G0II-K3Iab}
+FeI       3586.985  (  23)[G30] {F5V-K2Ib}
+HeI    P  3587.16   (  32) {O9-B9Iab}
+HeI       3587.252  (  31)[D(2)] {O9V-B9Ia}
+HeI       3587.396  (  31)[D-] {O9V-B9Ia}
+FeI       3589.107  (  23)[B8] {G0-K2Iab}
+ScII      3589.635  (   3)[A20] {G0-K2Iab}
+CN        3590.            {F5-K0II;G0-K0Ib}
+CrI       3593.488  (   4)[C900R] {F0-K5V;G0IV-K2Iab}
+HeI       3599.304  (  30)[D(1)] {O9-B9Iab}
+HeI       3599.442  (  30)[D(1)] {O9-B9Iab}
+AlIII     3601.916  (   1)[A1] {B5-A0V}
+CrII      3603.61   (  13)[A20] {A0-A7V}
+CrII      3603.80   (  13) {A4-A7V}
+CrII      3603.86   (  13)[A20] {A4-A7V;F0-G5III}
+CrI       3605.333  (   4)[C750R] {F0-K5V;A0-K1IV;G0III-K2Iab}
+FeI       3606.679  ( 294)[G20] {F0V-G5III;G0II-K0Ib}
+FeI       3608.861  (  23)[B100r] {F0V-K5III;G0II-K0Ib}
+NiI       3609.314  (  16)[B15] {G0-K3Iab}
+NiI       3610.462  (  18)[B60R] {G0-K3Iab}
+NiI       3612.741  (   6)[B30R] {G0-K3Iab}
+HeI       3613.641  (   6)[B(3)] {O9V-B9Ia}
+ScII      3613.836  (   2)[A60] {A5V-G5III;F5-K0II;A0Ib-K2Ia}
+FeII      3614.873  ( 112)[A5] {A0-A3V}
+FeI       3618.769  (  23)[B125R] {F0V-K5III;G0II-K0Iab}
+V II      3618.924  ( 158)[A200] {A4-A7V}
+NiI       3619.392  (  35) {F0V-K0IV;F5-K0II;G0Ib-K0Iab}
+NiI       3624.733  (   2)[B15] {F5-K3II;G0-K0Ib}
+TiII      3624.826  (  52)[A70] {A0-G0IV;F0-G5III}
+ScII      3630.740  (   2)[A50] {A4-F8V;A0-A9III;A0Ib-F8Ia}
+CaI       3630.748  (   9)[A30] {A0-K0Iab}
+CaI       3630.974  (   9)[A15] {A0-K0Iab}
+FeI       3631.103  ( 322)[J7] {K0-K3II}
+FeI       3631.464  (  23)[B125R] {F0V-K5III;G0II-K0Iab}
+CrII      3631.49   (  12)[A50] {B5-A3V;B2-F0II}
+CrII      3631.72   (  12)[A40] {B5-A3V;B2-F0II}
+FeII      3632.292  ( 112)[B3] {A4-A7V;A0-G5III;A0Ib-F8Ia}
+Y II      3633.13   (   2)[A200] {F0-G0Iab}
+HeI       3634.235  (  28)[D(2)] {O9V-B9Ia}
+FeI       3634.326  ( 389)[G6n] {A0-G0IV;F5-K0II;G0-K0Ib}
+HeI       3634.373  (  28)[D(1)] {O9V-B9Ia}
+NiI       3634.941  (  33)[B12] {F0-K5V;G0-K1IV;G5-K5III;K0-K3II}
+FeI       3635.19   ( 490)[W2] {A0-G0IV;F5-K0II}
+TiI       3635.202  (  20)[E8] {F0-M2Iab}
+TiII      3641.330  (  52)[A100] {A0-G5III;A0-F8Ib;A0-F8Ia}
+ScII      3642.785  (   2)[A40] {A5V-G5II;A0Ib-G0Ia}
+FeI       3645.090  ( 323,495)[V2] {G5IV-K3II}
+ScII      3645.311  (   2)[A30] {A5V-G5II;A0-G0Ib;A0-G0Ia}
+CrII      3647.40   (   1)[A8] {A0-A5V}
+FeI       3647.844  (  23)[B100R] {F0V-K5III;G0II-K3Iab)
+FeI       3649.304  (   5)[J5] {G0-K0V;G0-K0Iab}
+ScII      3651.798  (   2)[A25] {A5-G5III;A5-G5Iab}
+HeI       3651.971  (  27)[D(1)] {O9-B9IV;O9-B9Ia}
+HeI       3652.119  (  27)[D(1)] {O9-B9IV;O9-B9Iab}
+CoI       3652.541  (   4)[A15] {F5-M2Iab}
+TiI       3653.497  (  19)[A100r] {G0-M2Iab}
+FeI       3656.227  (    )[V3n] {F5-K0II;G0-K0Ib}
+NiI       3661.951  (  16)[B8] {G0-K3Iab}
+TiII      3662.237  (  75)[C40] {F0-G5III}
+NeII      3664.09   (   1)[A9] {O9V-B9Ia}
+NiI       3664.095  (   4)[B20] {F0-K5V;A0-K1IV;G0III-K0Iab}
+NiI       3669.241  (   2)[B12] {G0IV-K3II;G0-K2Iab}
+V II      3669.410  ( 116)[A300] {F0-G5III}
+H         3669.466  (   5)[A H25] {F0-G5III;A0-G0Ia}
+FeI       3669.523  ( 291)[B10] {A0-G0IV;F5-K0II;G0-K0Ib}
+NiI       3670.427  (   4)[B20] {F0-K5V;G0-K3Iab}
+H         3671.478  (   5)[A H24]  {A0-G0Ia}
+H         3673.761  (   5)[A H23] {A0-G0Ia}
+FeI       3674.766  ( 369)[J2] {K0-K3II}
+H         3676.365  (   4)[A H22] {F0-F8V;B3-F0II;A0-G0Ia}
+FeI       3677.309  ( 773)[J2] {K0-K3II}
+FeI       3677.630  ( 291)[B12] {A0-G0IV;K0-K3II}
+CrII      3677.69   (  12)[A40] {A0V-G0Ia}
+CrII      3677.86   (  12)[A50] {A0V-G5II;A0-G0Ib;A0-G0Ia}
+CrII      3677.93   (  12)[A30] {A0V-G5II;A0-G0Ib;A0-G0Ia}
+H         3679.355  (   4)[A H21] {F0-F8V;A0IV-G0Ia)
+FeI       3679.915  (   5)[B40r] {F0-K5V;G0IV-K0Iab}
+H         3682.810  (   4)[A H20] {A0IV-G0Ia}
+FeI       3683.054  (   5)[G10] {G0-M2III;G0-M2Iab}
+TiII      3685.192  (  14)[A250] {A0V-G0II;A0-F8Ib;A0-G0Ia}
+H         3686.833  (   4)[A H19] {A0V-G0Ia}
+FeI       3687.458  (  21)[B40r] {F0-K5V;G0IV-K0Iab}
+NiI       3688.415  (   5)[B15] {G0-K3Iab}
+H         3691.557  (   4)[A H18] {B2V-G0Ia}
+CoI       3693.106  (  97)[A8] {G5-K5III}
+CoI       3693.476  (  95)[A8] {G5-K5III}
+NiI       3693.932  (  15)[B8] {G5-M2III}
+FeI       3694.005  ( 394)[G20] {F5-G5V;A0-K1IV;G0III-K0Iab}
+NeII      3694.22   (   1)[A10] {O9V-B9Ia}
+H         3697.154  (   3)[A H17] {B2V-G0Ia}
+CrII      3698.00   ( 118)[A35] {A4-A7V}
+H         3703.855  (   3)[A H16] {O9V-G0Ia}
+CoI       3704.060  (  35)[A25] {G5-K5III;K0-K3II}
+HeI       3705.003  (  25)[B(3)] {O9V-B3Ia}
+HeI       3705.140  (  25)[C(1)] {O9V-B3Ia}
+FeI       3705.567  (   5)[B100r] {F5V-K5III;G0II-M2Iab}
+CaII      3706.026  (   3)[B10] {A5V-G5II;A0-G8Ib;A0-G8Ia}
+FeI       3707.828  (   5)[V20] {G0-M2III;G0-M2Iab}
+FeI       3709.246  (  21)[G75r] {F0-K5V;A0-K1IV;G0III-K2Iab}
+NeII      3709.64   (   1)[A7] {O9-B5V;O9III-B3II;O9-B3Ia}
+H         3711.973  (   3)[A H15] {O9V-G0Ia}
+O II      3712.75   (   3)[B7] {O9V-B5V;O9-B3II}
+CrII      3712.97   (  12)[A35] {F0-G5III;A0-G0Ib;A0-G0Ia}
+CrII      3713.04   (  12)[A15] {F0-G5III;A0-F8Ib;A0-G0Ia}
+NeII      3713.09   (   5)[A10] {O9-B3III;O9-B3II;O9-B3Ia}
+O III     3715.08   (  14)[A6] {O9V-B3II;O9-B3Ia}
+CrII      3715.19   (  20)[A15] {A0-G0Ia}
+V II      3715.476  (  15)[A1200l] {F0-F8V;A0-G0Ia}
+FeI       3719.935  (   5)[B250r] {F0-K5V;A0-K1IV;G0III-M2Iab}
+H         3721.940  (   3)[A H14] {O9V-G0Ia}
+NiI       3722.484  (  18)[B15r] {G5-K5III}
+FeI       3722.564  (   5)[B50r] {F0V-K3IV;G0III-K2Iab}
+NiI       3724.827  ( 182)[B4] {K0-K3II}
+NeII      3727.08   (   5)[A9] {O9-B3II;O9-B3Ia}
+V II      3727.351  (  21)[A1000l] {A4-F8V}
+CrII      3727.37   ( 117)[A40] {A0-A9III}
+FeI       3727.621  (  21)[B50r] {G0V-K3Iab}
+V II      3728.335  ( 116)[A200] {A4-F8V;A0-G0Ia}
+O II      3729.34   (  62) {B5-B9Ib;B5-B9Iab}
+TiI       3729.806  (  17)[A50r] {G0-K2Iab}
+HeI       3732.861  (  24)[C(1)] {O9-B5V}
+HeI       3732.992  (  24)[D(1)] {O9-B5V}
+FeI       3733.319  (   5)[B40r] {F5-M2V;F5-M2III;F5-M2Iab}
+H         3734.370  (   3)[A H13] {O9V-G0Ia}
+FeI       3734.867  (  21)[B300r] {F0-M2V;G0-K1IV;G0III-M2Iab}
+NeII      3734.94   (   1)[A7] {O9-B3Ia}
+CaII      3736.901  (   3)[B12] {F0-F8V;B9-F2II;A0Ib-G0Ia}
+FeI       3737.133  (   5)[B150r] {F0-M2V;F0-K1IV;G0III-K3Iab}
+TiI       3741.059  (  17)[A60r] {G0-K3Iab}
+TiII      3741.633  (  72)[B50] {B2-B9Iab;A0-G0Ia}
+FeI       3743.364  (  21)[G20] {F0-M2V;G0-K1IV;G0III-K3Iab}
+FeI       3745.561  (   5)[J100R] {F0V-K3II;F0-K3Iab}
+V II      3745.806  (  15)[A800] {A4-A7V;A0-G0Ib;A0-G0Ia}
+FeI       3745.901  (   5)[J40r] {F0V-K3II;G0Ib-K3Iab}
+FeI       3748.264  (   5)[B60R] {G0V-K3II;G0-M2Iab}
+FeI       3748.969  ( 386)[J5] {K0-K3II}
+FeI       3749.487  (  21)[B200R] {F0V-K1IV;G0III-K3Iab}
+H         3750.154  (   2)[A H12] {O9V-G0Ia}
+O III     3754.67   (   2)[A7] {O9V-B3Ia}
+O III     3757.21   (   2)[A5] {O9V-B3Ia}
+TiII      3757.684  (  72)[B30] {F0-G0V;A0-G0IV;A0-G0Ia}
+FeI       3758.235  (  21)[B150R] {F0V-K5III;G0II-K0Iab}
+TiII      3759.291  (  13)[A200] {B2V-G0Ia}
+O III     3759.87   (   2)[A9] {O9V-B3Ia}
+FeI       3760.052  ( 177)[B8] {F5-K0II}
+FeI       3760.534  (  76)[G6] {F5-K0II}
+TiII      3761.320  (  13)[A200] {B2V-G0Ia}
+SiIV      3762.41   (   3)[A(5)] {O9-B5V;O9III-B3II;O9-B1Ib}
+FeI       3763.790  (  21)[B100r] {F0V-K3II;G0-K3Iab}
+FeI       3767.194  (  21)[B80r] {G0V-K3III;F5-K3II;G0-K3Iab}
+H         3770.632  (   2)[A H11] {O9V-G0Ia}
+TiI       3771.652  (  17)[A25] {G0-K3Iab}
+O III     3774.00   (   2)[A6] {O9-B1Ib;O9-B3Ia}
+NiI       3775.572  (  33)[B30r] {K0-K3II}
+TiII      3776.062  (  72)[B6] {A0IV-G5III;A0-F8Ib;A0-G0Ia}
+NeII      3777.16   (   1)[A8] {O9-B1III}
+FeI       3778.509  ( 664)[J4] {K0-K5V;G0IV-M2III;G0-K2Ib}
+FeI       3779.486  (  74)[J2] {G2-K0II}
+FeII      3781.510  ( 130)[A1] {A4-A7V;A0-G0Ib;A0-G0Ia}
+FeII      3783.347  (  14)[A4] {A0V-G0Ia}
+HeI       3784.886  (  64)[D(1)] {O9V-B9IV;B2Ib-B9Ia}
+FeI       3785.950  ( 177)[G6] {G0III-K3II}
+TiII   P  3786.33   (  12) {A4-A7V;A0-F8Ib;A0-G0Ia}
+FeI       3786.678  (  22)[J8] {G0-M2II;G0-M2Iab}
+FeI       3787.883  (  21)[B50] {F0V-K3II;G0Ib-K0Iab}
+FeI       3789.178  ( 289)[J3] {K0-K3II}
+FeI       3790.095  (  22)[B12] {K0-K5V;G0-K1IV;G5-K5III}
+O III     3791.26   (   2)[A6] {O9-B5V;O9-B3II;O9-B1Ib;O9-B3Ia}
+NiI       3793.608  (   4)[B8] {G0-K3Iab}
+FeI       3795.004  (  21)[B60] {F0V-K3II;G0Ib-K0Iab}
+H         3797.900  (   2)[A H10] {O9V-G5Ia}
+FeI       3798.513  (  21)[B40] {F0V-K3II;G0Ib-K3Iab}
+FeI       3799.549  (  21)[B50] {F0V-K3II;G0Ib-K3Iab}
+HeI       3805.765  (  63)[D(1)] {O9-B9V;O9Ib-B9Ia}
+SiIII     3806.56   (   5)[A5] {O9V-B9Ia}
+NiI       3807.144  (  33)[B35r] {G0V-K3II;G0-K3Iab}
+FeI       3807.534  (  73)[G7] {A4V-K0II;A0-G0Ib;A0-G0Ia}
+FeI       3812.964  (  22)[G40] {K0-K5V;K5-M2III;A0Ib-G0Ia}
+FeII      3814.121  ( 153)[A4] {A0III-F8II;A0-F8Ib;A0-F8Ia}
+TiII      3814.580  (  12)[B4] {A4-A7V;A0-A9III;A0-G0Ib;A0-G0Ia}
+FeI       3815.842  (  45)[B100r] {A5V-K)II;G0Ib-K0Ia}
+HeI       3819.606  (  22)[D(1)] {O9V-B9Ia}
+HeI       3819.761  (  22)[D(1)] {O9V-B9Ia}
+FeI       3820.428  (  20)[I250R] {A0V-K5Ia}
+FeI       3824.444  (   4)[B50r] {F0V-M2III;F0Iab-M2Ia}
+FeII      3824.913  (  29)[A4] {A0-A7V}
+FeI       3825.884  (  20)[B200R] {A0V-K5Ia}
+FeII      3827.079  ( 153)[A4] {A4-A7V}
+FeI       3827.825  (  45)[B75r] {F0-M2V;G5-K5III;F2-K3II;G0-K0Ib}
+MgI       3829.3549 (   3)[A40] {A0V-K5Ia}
+N II      3829.80   (  30)[C3] {B2-B9Ib}
+MgI       3832.2996 (   3)[A80r*] {A0V-K5Ia}
+MgI       3832.3037 (   3)[A80r*] {A0V-K5Ia}
+FeI       3834.225  (  20)[B100r] {A0V-M2Iab}
+H         3835.386  (   2)[A H9] {O9V-G8Ia}
+MgI       3838.2918 (   3)[A100r*] {A0V-K5Ia}
+MgI       3838.2943 (   3)[A100r*] {A0V-K5Ia}
+FeI       3840.439  (  20)[B80r] {A0V-M2Ia}
+FeI       3841.051  (  45)[B80r] {A0V-M2Ia}
+FeI       3849.969  (  20)[B40] {A0V-M2Ia}
+FeI       3850.820  (  22)[B12] {A0V-M2Iab}
+FeI       3852.574  (  73)[I6] {F0-G5III}
+SiII      3853.657  (   1)[A3] {B2V-F2Ia}
+SiII      3856.021  (   1)[A8] {B2V-F2Ia}
+FeI       3856.373  (   4)[B50r] {F0V-M2Iab}
+FeI       3859.913  (   4)[B300R] {A0V-M2Ia}
+SiII      3862.592  (   1)[A6] {B2V-F2Ia}
+FeI       3865.526  (  20)[B30] {A0V-K2Iab}
+HeI       3867.477  (  20)[D(2)] {O9V-B9Ia}
+HeI       3867.631  (  20)[D(1)] {O9V-B9Ia}
+CN        3871.            {G0-K5V;A0-G0IV;F2-K3II;G0-K2Ib}
+FeI       3871.750  ( 429)[J4] {K0-K3II;G0-K2Ib}
+HeI       3871.819  (  60)[D(1)] {O9V-B9Ia}
+FeI       3872.504  (  20)[B60] {A0V-K5Ia}
+CoI       3873.120  (  18)[A60] {K5-M2III}
+FeI       3873.763  ( 175)[B8] {A0-A9III}
+CoI       3873.953  (  18)[A40] {K5-M2III}
+FeI       3876.043  (  22)[J4] {F5-F8V}
+C II      3876.051  (  33)[A6] {O9-B1III}
+C II      3876.188  (  33)[A8] {B2-B7IV;O9-B1III}
+C II      3876.409  (  33)[A7] {B2-B7IV;O9-B1III}
+FeI       3878.021  (  20)[B60] {F2V-K2Iab}
+FeI       3878.575  (   4)[B100r] {A0V-K5Ia}
+FeI       3886.284  (   4)[B40R] {G0V-M2Iab}
+FeI       3887.051  (  20)[B15] {G0-K5V;K0-K3II;G0-K2Ib}
+FeI       3888.517  (  45)[B20] {F6-G5V;F2-K3II;G0-K2Ib}
+HeI       3888.646  (   2)[B(10)(7)(3)] {B2-B7IV}
+FeI       3888.825  ( 488)[V3] {K0-K3II}
+H         3889.051  (   2)[A H8] {O9V-K2Ia}
+FeI       3893.391  ( 430)[I7] {G5-K5V;G0-K2Ib}
+FeI       3895.658  (   4)[B25r] {A0V-K5Ia}
+FeI       3899.709  (   4)[B30R] {F2V-M2Iab}
+FeI       3900.519  ( 565)[J2] {G0-K0Ib}
+TiII      3900.546  (  34)[A70] {A0V-F8Ia}
+FeI       3902.948  (  45)[B20] {A0V-K5Ia}
+FeI       3903.902  ( 429)[J5] {G0-K0Ib}
+SiI       3905.527  (   3)[A100] {F0V-K5III;G0II-K2Ib}
+CrII      3905.64   ( 167)[A25] {A0V-A9Ia}           
+FeII      3906.037  ( 173)[A5] {A0-A9III;B3-F0II}
+CoI       3906.287  (  17)[A10] {F5-M2Iab}
+FeI       3906.482  (   4)[B8] {F2V-M2Iab}
+O II      3907.45   (  11)[B4] {B2-B9Ib}
+O II      3911.960  (  17)[A10] {B2V-B9Ib}
+O II      3912.088  (  17)[B2] {B2V-B9Ib}
+TiII      3913.464  (  34)[A60] {A0V-F2Ia}   
+C II      3918.977  (   4)[A9] {O9V-B9Ia}
+O II      3919.287  (  17)[A6] {O9-B2V}
+FeI       3920.260  (   4)[B20r] {A0V-K5Ia}
+C II      3920.677  (   4)[A10] {O9V-B9Ia}
+FeI       3922.914  (   4)[B25R] {A0V-K5Ia}
+SiIII     3924.44   (    )[A4] {B2-B7IV}
+HeI       3926.530  (  58)[D(1)] {O9V-B9Ia}
+FeI       3930.299  (   4)[B25R] {G5-K5V}
+CaII      3933.664  (   1)[A400R(K)] {O9V-B9Ia;A0V-M2Ia}
+AlI       3944.009  (   1)[A10R] {F0V-M2Ia}
+O II      3945.048  (   6)[A5] {B2-B9Iab}
+TiI       3948.670  (  13)[A60] {G0-M2Iab}
+FeI       3949.954  (  72)[I10] {G0-M2Iab}
+Y II      3951.59   (  16)[A5] {A4-A7V;A0Ib-F8Ia}
+V II      3951.968  (  10)[A500] {A4-A7V;B6-B9III;A0Ib-F8Ia}
+FeI       3952.606  ( 278)[I8] {A0-A9III;F2-K0II;G0-K2Ib}
+O II      3954.372  (   6)[A7] {B2-B9Ib;B2-B9Iab}
+N II      3955.851  (   6)[A6] {B2-B9Ib}
+AlI       3961.523  (   1)[A10R] {F0V-M2Iab}
+O III     3961.59   (  17)[A8] {O9-B2Ib;O9-B9Ia}
+HeI       3964.727  (   5)[B(4)] {O9-B2V;O9Ib-B2Ia}
+CaII      3968.470  (   1)[A350R] {O9V-B9Iab;A0V-M2Ia}
+H         3970.074  (   1)[A Heps] {O9V-K2Ia}
+NiI       3973.562  (  31)[B25] {G5-K5III}
+FeI       3977.743  (  72)[I12] {F2-K3II}
+TiI       3982.478  (  11)[B30] {K0-M2III;K0Ib-M2Iab}
+Y II      3982.59   (   6)[A150] {A4-A7V;A0Ib-F8Ia}
+O II      3982.719  (   6)[A5] {O9-B9III;O9Ib-B9Ia}
+MgI       3986.753  (  17)[A(1)] {F5V-K3II;G0-K0Ib}
+TiI       3989.758  (  12)[A80r] {F0-M2V;G5-M2III;K0Ib-M2Ia}
+N II      3994.996  (  12)[A10] {O9V-B9Ia}
+CoI       3995.306  (  31)[A60] {G0-G5V}
+FeI       3997.394  ( 278)[I15] {F0V-K5Ib}
+CoI       3997.901  (  32)[A40] {G0-G5V}
+FeI       3998.054  ( 276)[I10] {F5-K5V;A0-A9III;F2-K0II;G0-K2Ib}
+TiI       3998.635  (  12)[A100R] {G0V-M2Ia}
+N III     3998.69   (  16)[A(3d)] {O9-B2V}
+FeI       4000.466  ( 426)[J2] {G5-K5III}
+FeI       4001.666  (  72)[J5] {A4-A7V;B3-B9II;B2-B9Iab;A0-G0Ia}
+FeI       4005.246  (  43)[B25] {A0V-M2Ia}
+FeI       4006.314  ( 603)[J3] {K0-K3II}
+FeI       4006.631  ( 488)[J2] {K0-K3II}
+FeI       4007.277  ( 277)[J6] {K0-K3II}
+TiI       4008.046  ( 187)[B9n] {K0-K3II}
+TiI       4008.926  (  12)[A35] {K0-M2V;K0Ib-M2Ia}
+HeI       4009.270  (  55)[D(1)] {O9V-B9Ia}
+TiI       4009.653  (  11)[B15] {K0-M2V;K0Ib-M2Ia}
+FeI       4009.714  (  72)[I10] {K5-M2III;K0-K3II}
+TiII      4012.372  (  11)[B4] {F0V-G0II;A0-G0Ia}
+FeI       4017.156  ( 527)[J6] {K0-K3II}
+MnI       4018.102  (   5)[B20] {G0V-K2Ib}
+ScI       4023.688  (   7)[A100] {G0-M2Iab}
+ZrII      4024.45   (  54)[A12] {A0Ib-F8Ia}
+FeII      4024.552  ( 127)[A5] {A0-A9III}
+TiI       4024.573  (  12)[A35] {F0-M2V;K0-M2III;K0-M2Ia}
+FeI       4024.735  ( 560)[J6n] {F2-K3II;G0-K0Ib}
+HeI       4026.189  (  18)[B(5)] {O9V-B9Ia}
+HeI       4026.362  (  18)[D(1)] {O9V-B9Ia}
+TiII      4028.332  (  87)[B7] {A0Ib-F8Ia}
+MnI       4030.755  (   2)[B200R] {A0V-M2Ia}
+MnI       4033.073  (   2)[B150R] {A0V-M2Ia}
+MnI       4034.490  (   2)[B100R] {A0V-M2Ia}
+N II      4035.087  (  39)[A4n] {O9-B9III;O9Iab-B9Ia}
+MnI       4035.728  (   5)[B15] {A0V-M2Ia}
+N II      4041.321  (  39)[A5n] {O9V-B9Ia}
+N II      4043.537  (  39)[A5n] {B2-B7IV;B2-B9Ib;O9-B9Iab}
+FeI       4045.815  (  43)[B60r] {A0V-M2Ia}
+ScI       4047.792  (   7)[A25] {K0Ib-M2Ia}
+TiII      4053.814  (  87)[B3] {F0-F5V;A0-G0Ia}
+ScI       4054.555  (   6)[A35] {K0Ib-M2Ia}
+CoI       4054.618  (   2)[A(2)] {G5-M2III}
+MnI       4055.543  (   5)[B20] {A4-A7V;F2-K3II;A0-K3Ib}
+CoI       4057.195  (   3)[A5] {K0-K3II}
+MgI       4057.505  (  16)[A5n] {F5-G5V;F0-G5III;F2-K0II;G0-K0Ib}
+MnI       4057.950  (  29)[B4] {K0-K3II}
+CoI       4058.183  (  16)[A8] {K0-K3II}
+CoI       4058.600  (  58)[A6] {K0-K3II}
+MnI       4058.930  (   5)[B10] {K0-K3II}
+CoI       4059.321  (   2)[G(1)] {K0-K3II}
+FeI       4063.597  (  43)[H45] {A0V-M2Ia}
+C III     4067.87   (  16)[A9] {O9-B2V;O9-B1III}
+C III     4068.97   (  16)[B9] {O9-B2V}
+O II      4069.636  (  10)[A4] {O9V-B9Ia}
+O II      4069.897  (  10)[A6] {O9V-B9Ia}
+C III     4070.30   (  16)[B10] {O9-B2V}
+FeI       4071.740  (  43)[H40] {A0V-M2Ia}
+O II      4072.164  (  10)[A8] {O9V-B9Ia}
+FeI       4074.794  ( 524)[J5] {G5-K2V;G5-K5III;K0-K3II}
+O II      4075.868  (  10)[A10] {O9V-B9Ia}
+SrII      4077.714  (   1)[A400r] {A0V-M2Ia}
+TiI       4078.471  (  80)[A30] {G5-K5III}
+O II      4078.862  (  10)[A4] {O9-B5V;O9Ib-B9Ia}
+N II      4082.280  (  38)[A2n] {B2V-B9Ia}
+ScI       4082.396  (   6)[A40] {G0-M2Iab}
+TiI       4082.456  (  80)[A20] {G0-M2Iab}
+MnI       4082.944  (   5)[B12] {K0-K5V;F2-K3II;G0Ib-M2Ia}
+MnI       4083.628  (   5)[B12] {F2-K5V;F2-K3II;G0Ib-M2Ia}
+FeI       4084.498  ( 698)[J8] {F0II-G8Ib}
+O II      4085.124  (  10)[A3] {O9-B9Iab}
+SiIV      4088.863  (   1)[A10] {O9V-B2Ib;O9-B3Ia}
+O II      4089.295  (  48)[A4n] {O9-B9Iab}
+V I       4099.796  (  27)[C60] {G0V-M2III;G0-M2Iab}
+FeI       4100.745  (  18)[J3] {G0V-K5III;G0-M2Iab}
+H         4101.737  (   1)[A Hdelta] {O9V-M2Ia}
+SiI       4102.926  (   2)[A25] {G5V-K3II}
+FeI       4104.132  ( 356,558)[K3] {G5-K5V;G0-K1IV}
+V I       4105.167  (  27)[C60] {K5-M2V}
+FeI       4107.492  ( 354)[B12] {G5V-K1IV;G0II-K0Ib}
+V I       4109.786  (  27)[C50] {G0V-M2III;K0II-M2Ia}
+FeI       4109.808  ( 357)[J9] {B3-B9II}
+CrII      4111.01   (  18,26)[A18] {A4-A7V;F0II-G0Ia}
+V I       4111.785  (  27)[C100R] {G0V-K1IV;K0Ib-M2Ia}
+CrII      4112.59   (  18)[A5] {A4-A7V;F0II-G0Ia}
+V I       4113.518  (  52)[C12] {K0Iab-M2Ia}
+V I       4115.185  (  27)[C60] {K0Iab-M2Ia}
+SiIV      4116.104  (   1)[A8] {O9V-B2Ib;O9-B3Ia}
+V I       4116.470  (  27)[C50] {K0-M2III;K0Iab-M2Ia}
+FeI       4118.549  ( 801)[B15] {F0-F5V;F2-K0II;G0-K0Ib}
+CoI       4118.774  (  28)[A50] {F5V-K5Iab}
+O II      4119.221  (  20)[A8] {B2-B7IV;O9-B1III}
+HeI       4120.812  (  16)[B(3)] {O9V-B9Ia}
+HeI       4120.993  (  16)[D(1)] {O9V-B9Ia}
+CoI       4121.318  (  28)[A60] {F2V-K2Iab}
+FeI       4121.806  ( 356)[B5] {F0-F5V}
+FeI       4122.522  ( 356)[J4] {F0-F5V}
+FeII      4122.638  (  28)[A4] {F0IV-G0II;A0Ib-G0Ia}
+V I       4123.566  (  27)[C60] {K2Ib-M2Ia}
+V I       4124.072  (  52)[C5] {K0Ib-M2Iab}
+FeI       4127.612  ( 357)[B7] {F0-F5V}
+SiII      4128.053  (   3)[A8] {B2V-G0Ia}
+V I       4128.071  (  27)[C60] {K0Ib-M2Ia}
+FeII      4128.735  (  27)[A3] {A0Ib-G0Ia}
+SiII      4130.884  (   3)[A10] {B2V-G0Ia}
+FeI       4132.060  (  43)[B25] {A0V-K1IV;G0III-M2Ia}
+CrII      4132.41   (  26)[A7] {F0-F5V}
+FeI       4132.903  ( 357)[J8] {F2-K3II;G0Ib-K2Iab}
+FeI       4134.681  ( 357)[B12] {A0V-K1IV;G0III-M2Ia}
+FeI       4143.418  ( 523)[J15] {F0-G5V;F0-K0II;F0Ib-K5Ia}
+HeI       4143.759  (  53)[B(2)] {O9V-B9Ia}
+FeI       4143.871  (  43)[B30] {A0V-M2Ia}
+CrII      4145.77   ( 162)[A25] {A4-F5V}
+FeI       4147.673  (  42)[B10] {G5V-M2Ia}
+ZrII      4149.22   (  41)[A75] {A0-F8Ib}
+FeI       4149.372  ( 694)[J5n] {K5-M2III}
+FeI       4152.172  (  18)[J4] {A0V-G0IV;F0-G5III;K0Ib-M2Ia}
+C III     4152.43   (  21)[A3] {O9-B1V}
+O II      4153.302  (  19)[A7] {B2-B7IV;B2Ib-B9Iab}
+FeI       4153.906  ( 695)[J10n] {F2-K0II;G0-K2Ib}
+FeI       4154.502  ( 355)[J12] {F0-G5V;A0-A9III;F2-K0II;G0-K2Ib}
+FeI       4154.812  ( 694)[J9n] {F2-K0II;G0-K2Ib}
+C III     4156.50   (  21)[A4] {O9-B1V}
+O II      4156.54   (  19)[B3] {B2-B9Ib}
+FeI       4156.803  ( 354)[B12] {F2V-K2Ib}
+FeI       4157.788  ( 695)[J8n] {F2-K0II;G0-K2Ib}
+FeI       4158.798  ( 695)[J5n] {A0-G0IV;F0-G5III;F2-K0II;G0-K2Ib}
+ZrII      4161.20   (  42)[A20] {A0Ib-G0Ia}
+FeI       4161.488  ( 422)[V(1)] {A4-A7V}
+TiII      4161.524  (  21)[B1] {G5-K5V;G5-K5III;K0-K3II}
+S II      4162.698  (  44,65)[A10] {B2-B5V;B2-B9Ib}
+C III     4162.80   (  21)[A5] {O9-B1V;O9-B3II}
+TiII      4163.644  ( 105)[A40] {A0-G0IV;F0-G5III;A0Ib-G0Ia}
+S II      4165.11   (  64)[A1] {B2-B9Ib}
+HeI       4168.971  (  52)[D(1)] {O9V-B9Ia}
+FeI       4170.906  ( 482)[B5] {F0V-K5III;K0II-M2Ia}
+N II      4171.608  (  43)[A2n] {B2-B5V;B2Ib-B9Iab}
+TiII      4171.897  ( 105)[A30] {A4-F5V;A0-A9III;A0Ib-G0Ia}
+FeI       4172.126  ( 649)[J5] {G0III-M2Ia}
+FeI       4172.749  (  19)[J4] {F2V-M2Ia}
+FeI       4173.322  ( 355)[J2] {F0-K5V;K0II-M2Ia}
+FeII      4173.450  (  27)[A8] {A0V-K5Ia}
+FeI       4173.926  (  19)[J2] {G5V-K5III;K0II-M2Ia}
+S II      4174.042  (  64)[A4] {B2Ib-B9Iab}
+S II      4174.300  (    )[A6] {B2-B9Ib}
+FeI       4174.917  (  19)[J5] {G0V-M2Ia}
+FeI       4175.640  ( 354)[B10] {G0V-M2Ia}
+FeI       4176.571  ( 695)[J7n] {F2III-M2Ia}
+Y II      4177.54   (  14)[A125] {A4-F5V;A0-G0III;A0Ib-G0Ia}
+FeI       4177.597  (  18)[J4] {F2V-M2III;G0Ib-M2Ia}
+V II      4178.390  (  25)[A60] {A0Ib-G0Ia}
+FeII      4178.855  (  28)[A8] {A0Ib-G0Ia}
+CN        4179.            {G5-K5V;G5-K5III}
+CrII      4179.43   (  26)[A12] {A4V-G5III}
+FeI       4181.758  ( 354)[J15] {F0-G5V;F2-K0II;G0Ib-M2Ia}
+FeI       4184.895  ( 355)[B10] {G5-K5V;G5-K5III;F2-K3II;G0-K0Ib}
+O II      4185.456  (  36)[A8] {O9-B3II;O9-B3Ia}
+FeI       4187.044  ( 152)[J20] {F2V-K0II;K0Ib-M2Ia}
+C III     4187.05   (  18)[A10] {O9-B2V;O9III-B3II;O9-B3Ia}
+FeI       4187.802  ( 152)[J20] {F2V-K0II;K0Ib-M2Ia}
+O II      4189.788  (  36)[A10] {O9IV-B9II;O9Iab-B9Ia}
+CoI       4190.712  (   1)[A20] {K0-M2V;G5-M2III;K0Ib-M2Iab}
+FeI       4191.436  ( 152)[J15] {F2V-K0II;K0Ib-M2Ia}
+FeI       4195.337  ( 693)[J5] {F5-G5V;F5-K0II;G0Ib-M2Ia}
+FeI       4196.218  ( 693)[J4] {F5-G5V;F5-K0II;G0Ib-M2Ia}
+CN        4197.            {G5-K5III}
+FeI       4198.310  ( 152)[J20] {F0V-M2Ia}
+FeI       4198.645  ( 693)[J4] {G0Ib-M2Ia}
+FeI       4199.098  ( 522)[J20] {G0V-M2Ia}
+HeII      4199.83   (   3)[A-] {O9-B3V;O9III-B3II;O9-B2Ib;O9-B3Ia}
+N III     4200.02   (   6)[A6] {O9-B3V;O9-B3II;O9-B2Ib;O9-B3Ia}
+FeI       4200.930  ( 689)[J3n] {K2Ib-M2Ia}
+FeI       4202.031  (  42)[B30] {A0V-M2Ia}
+V II      4202.350  (  25)[A150] {A0Ib-G0Ia}
+FeI       4203.987  ( 355)[B10] {K0Ib-M2Ia}
+V II      4205.080  (  37)[A250] {F0-F5V}
+FeI       4206.702  (   3)[J3] {K2Ib-M2Ia}
+FeI       4207.130  ( 352)[J4] {F5-G5V;G0-M2III;K0Ib-M2Ia}
+FeI       4210.352  ( 152)[J15] {A0-G0IV}
+SiIV      4212.44   (   5)[A(4)] {O9-B3V;O9-B3II;O9-B2Ib;O9-B3Ia}
+SrII      4215.524  (   1)[A300r] {A0V-M2Ia}
+CN        4216.            {K0-M2V;F2-K3II;K0Ib-M2Ia}
+FeI       4216.186  (   3)[B8] {K0Ib-M2Ia}
+S II      4217.23   (  44)[A3] {O9-B9Iab}
+CaI       4226.728  (   2)[A500R] {A0V-M2Ia}
+FeII      4233.167  (  27)[A11] {B2V-G8Ia}
+FeI       4233.608  ( 152)[I18] {G0V-M2Ia}
+FeI       4235.942  ( 152)[I25] {F0-K5V;G0IV-M2Ia}
+FeI       4237.162  (    )[J2] {G5-K5V;K0II-M2Ia}
+FeI       4238.027  ( 689,696)[J4] {K0II-M2Ia}
+FeI       4238.816  ( 693)[I10n] {K0II-M2Ia}
+FeI       4239.847  (  18,273)[J2] {F2V-G5IV;K0II-M2Ia}
+CrII      4242.38   (  31)[A30] {F0-F5V}
+CrII      4246.41   (  31)[A2] {F0-F5V}
+ScII      4246.829  (   7)[A100] {A0V-G8Ia}
+FeI       4247.432  ( 693)[I12] {F2-K0II;G0-K0Ib}
+FeI       4248.228  ( 482)[J4] {F2-K0II;G0-K0Ib}
+FeI       4250.125  ( 152)[J25] {A4-G5V;F2III-K0II;G0Ib-M2Iab}
+FeI       4250.790  (  42)[B25] {A0V-M2Iab}
+O II      4253.74   ( 101)[C4d] {O9-B3III;O9-B3Ia}
+O II      4253.98   ( 101)[C4d] {O9-B3III;O9-B3II;O9-B2Ib}
+CrI       4254.346  (   1)[C1000R] {F0-M2V;G0IV-M2Ia}
+ZrII      4258.05   (  15)[A12] {A0Ib-G0Ia}
+FeI       4258.320  (   3)[J2] {F0-F5V;K2Ib-M2Ia}
+FeI       4260.479  ( 152)[H35] {F0V-M2Ia}
+C II      4267.02   (   6)[A10] {B2V-B9Ia}
+C II      4267.27   (   6)[A20] {B2V-B9Ia}
+FeI       4271.159  ( 152)[J20] {A0-A9III;A0Ib-K5Ia}
+FeI       4271.764  (  42)[B35] {A0V-M2Ia}
+CrI       4274.803  (   1)[C800R] {G0V-M2Ia}
+O II      4275.52   (  67)[B4n] {O9-B2Ib;O9-B3Ia}
+CrII      4275.57   (  31)[A30] {A0-A3V}
+O II      4275.90   (  68)[C0d] {O9-B3III;O9-B2Ib;O9-B3Ia}
+O II      4276.21   (  68)[C0d] {O9-B3III;O9-B2Ib;O9-B3Ia}
+O II      4276.71   (  54,67)[B1n] {O9-B2Ib;O9-B3Ia}
+O II      4277.40   (  67,68)[B1n] {O9-B2Ib;O9-B3Ia}
+O II      4277.90   (  67)[B1n] {O9-B2Ib;O9-B3Ia}
+FeII      4278.128  (  32)[C(1)] {A4-A7V}
+O II      4281.40   (  54)[B0n] {O9-B2Ib;O9-B3Ia}
+O II      4282.82   (  54)[C2d] {O9-B2Ib;O9-B3Ia}
+O II      4282.96   (  67)[B1n] {O9-B2Ib;O9-B3Ia}
+O II      4283.13   (  67)[C0d] {O9-B2Ib;O9-B3Ia}
+O II      4283.75   (  67)[B0n] {O9-B2IbO9-B3Ia}
+O II      4285.70   (  78)[B3n] {O9III-B2Ia}
+O II      4288.83   (  54)[B1n] {O9-B2Ib;O9-B3Ia}
+CrI       4289.721  (   1)[C700R] {A0V-M2Ia}
+TiII      4290.222  (  41)[B50] {A0V-G0Ia}
+N III     4290.55   (    )[A1n] {O9-B2V}
+N III     4290.80   (    )[A3n] {O9-B2V}
+O II      4291.25   (  55)[B1n] {O9-B2Ib;O9-B3Ia}
+FeI       4291.466  (   3,41)[I4] {K0Ib-M2Iab}
+O II      4292.23   (  78)[B0n] {O9-B2Ib;O9-B3Ia}
+TiII      4294.101  (  20)[A40] {A0V-M2Ia}
+FeI       4294.128  (  41)[B15] {F2V-K3II;G0Ib-M2Iab}
+O II      4294.82   (  54)[B3n] {O9Ib-B9Ia}
+TiI       4295.751  (  44)[A22] {K5-M2III;F2-K3II;G0Ib-K0Iab}
+FeII      4296.567  (  28)[A6] {A4-A7V;A0-A9III}
+TiI       4298.664  (  44)[A40] {F2-K3II;G0Ib-M2Ia}
+CaI       4298.986  (   5)[A30] {K0Ib-M2Iab}
+TiI       4299.229  ( 148)[E15] {F2-K3II;G0Ib-M2Ia}
+FeI       4299.242  ( 152)[I18] {A0V-M2Ia}
+TiI       4299.636  (  43)[B15] {F2-K3II;G0Ib-M2Ia}
+TiII      4300.052  (  41)[B60] {A0V-M2Ia}
+TiI       4300.566  (  44)[B50] {K5-M2V;F2-K3II;G0Ib-M2Ia}
+TiI       4301.089  (  44)[B50] {K0-M2V;F2-K3II;G0Ib-K0Ia}
+TiII      4301.928  (  41)[B15] {A0V-M2Ia}
+CaI       4302.527  (   5)[A60r] {K0Ib-M2Iab}
+FeII      4303.166  (  27)[A8] {A0V-G0Ia}
+O II      4303.82   (  54)[B5n] {O9-B9V;B2Ib-B9Iab}
+FeI       4305.455  ( 476)[B3] {F2-K3II;G0Ib-M2Ia}
+TiI       4305.474  ( 147)[B2] {F2-K3II;G0Ib-M2Ia}
+TiI       4305.910  (  44)[A60] {F0-G5V;F2-K3II;G0Ib-M2Ia}
+CaI       4307.741  (   5)[A45] {K0Ib-M2Iab}
+TiII      4307.900  (  41)[A40] {A0V-M2Ia}
+FeI       4307.906  (  42)[B35] {F2V-M2Ia}
+TiI       4308.514  (  79)[B2] {F2-K3II;G0Ib-M2Ia}
+FeI       4309.382  ( 414)[V4] {F2-K3II;G0Ib-M2Ia}
+TiII      4312.861  (  41)[A35] {A0IV-G5III;F2-K3II;G0Ib-M2Ia}
+ScII      4314.084  (  15)[A60] {A0IV-G0Ia}
+TiI       4314.356  (  45)[B5] {F2-K3II;G0Ib-M2Ia}
+TiI       4314.801  (  43)[A25*] {K0V-M2III;F2-K3II;G0Ib-M2Ia}
+TiII      4314.979  (  41)[B40] {A0-A9III;F2-K3II;G0Ib-M2Ia}
+FeI       4315.087  (  71)[B10] {A0-G0IV;F2III-K3II;G0Ib-M2Ia}
+O II      4317.139  (   2)[A8] {O9V-B9Ia}
+CaI       4318.652  (   5)[A45] {K0Ib-M2Ia}
+O II      4319.631  (   2)[A8] {O9V-B9Ia}
+ScII      4320.745  (  15)[A50] {F0-F5V;A0-G0Ia}
+CH        4323.            {F0-K5V;F0III-M2Ia)
+CH        4325.            {F0-K5V;F0III-M2Ia}
+FeI       4325.765  (  42)[B35] {A0V-M2Ia}
+V I       4332.823  (   5)[C30w] {G0-M2Iab}
+FeI       4337.049  (  41)[B10] {G5-K5V;G5III-K3II;K0-M2Iab}
+CrI       4339.450  (  22)[C75] {K0-M2III;K0Ib-M2Iab}
+CrI       4339.718  (  22)[C60] {K0-M2III;K0Ib-M2Iab}
+CrI       4340.130  (  64)[C18] {K0Ib-M2Iab}
+H         4340.468  (   1)[A Hgamma] {O9V-M2Ia}
+CrI       4341.48   (  64)[B7] {K0Ib-M2Iab}
+CrI       4343.163  (  64)[C18] {K2Ib-M2Ia}
+CrI       4344.507  (  22)[C100] {K2Ib-M2Ia}
+O II      4349.426  (   2)[A8] {O9Ib-B9Ia}
+CrI       4351.051  (  22)[C75] {K0Ib-M2Ia}
+O II      4351.269  (  16)[A6] {O9Ib-B9Ia}
+FeII      4351.764  (  27)[A9] {B3-F2II;A0-G0Ia}
+CrI       4351.77   (  22)[C100] {G5V-M2III;K0Ib-M2Ia}
+MgI       4351.8941 (  14)[A30] {F5V-G5II;G0-K0Ib}
+MgI       4351.9056 (  14)[A30] {F5V-G5II;G0-K0Ib}
+FeI       4352.737  (  71)[B9] {G0V-K0Ib}
+V I       4352.872  (   5)[C50w] {K0Ib-M2Iab}
+O II      4353.60   (  76)[B1n] {B3-B9Ia}
+V I       4355.943  (   5)[C10] {K7-M2V}
+O II      4357.25   (  18,63,64)[B0] {B3-B9Ia}
+O II      4358.40   (  64)[B0] {B3-B9Ia}
+FeI       4358.505  ( 412)[B3] {B3-B9V}
+O II      4359.38   (  26)[B1] {B3-B9Ia}
+O II      4366.896  (   2)[A7] {O9V-B9Ia}
+TiII      4367.657  ( 104)[B15] {A0V-G0Ia}
+FeI       4367.906  (  41)[J2] {G5-K5III;F2-K3II;G0-K0Ib}
+FeI       4369.774  ( 518)[B7] {G0III-K0Ib};
+CH        4371.            {F0-K5V}
+ScII      4374.455  (  14)[A40] {A0Ib-G0Ia}
+Y II      4374.94   (  13)[A300] {A0Ib-G0Ia}
+FeI       4375.932  (   2)[B9] {G0V-M2Ia}
+V I       4379.238  (  22)[C150rw] {G5-K5V}
+FeI       4383.547  (  41)[B45r] {A0V-M2Ia}
+V I       4384.722  (   5,22)[C125r] {K0Ib-M2Ia}
+ScII      4384.813  (  14)[A8] {A0-F8Ib;A0-G0Ia}
+FeII      4385.381  (  27)[A7] {A0V-G0Ia}
+HeI       4387.928  (  51)[B(3)] {O9V-B9Ia}
+FeI       4389.244  (   2)[J2] {K0-M2V;K0-M2III;K0-M2Iab}
+V I       4389.974  (  22)[C100] {K0V-M2Ia}
+CrI       4391.753  (  22)[C40] {K0-K3II}
+TiII      4395.031  (  19)[A60] {A0V-G0Ia}   
+V I       4395.228  (  22)[C80] {K5-M2III}
+TiII      4399.767  (  51)[A35] {A0V-G0Ia}
+ScII      4400.355  (  14)[A30] {A0Ib-G0Ia}
+TiI       4404.397  (  78)[B5] {K5-M2III}
+FeI       4404.752  (  41)[B30] {F2V-K3II;G0Ib-M2Ia}
+TiI       4404.911  ( 161)[B5] {K5-M2III}
+V I       4405.011  (  23)[C4] {K0-M2V;K0-M2III;K0Ib-M2Iab}
+V I       4406.147  (  40)[C6] {K0Ib-M2Iab}
+V I       4406.641  (  22)[C80] {K0-M2V;K0Ib-M2Iab}
+V I       4407.637  (  22)[C70] {K0-M2V;K0Ib-M2Iab}
+V I       4408.204  (  22)[C70] {K0-M2V;K0-M2III;K0Ib-M2Iab}
+V I       4408.511  (  22)[C90] {K0-M2V;K0-M2III;K0Ib-M2Iab}
+O II      4414.909  (   5)[A10] {O9V-B9Ia}
+FeI       4415.125  (  41)[B20] {A0V-M2Ia}
+ScII      4415.559  (  14)[A20] {A0Ib-G0Ia}
+FeII      4416.817  (  27)[A7] {A0V-G0Ia}
+O II      4416.975  (   5)[A8] {O9V-B9Ia}
+TiII      4417.718  (  40)[B40] {A0V-G0Ia}   
+TiO       4422.            {K5-M2III}
+TiO       4424.            {K0Ib-M2Ia}
+CaI       4425.441  (   4)[A50] {F0-K5V;F0-G5III}
+TiI       4427.098  ( 128)[A40] {K0-M2III;K0-M2Iab}
+FeI       4427.312  (   2)[B10] {G5V-M2Ia}
+Inter.    4430.          {O9II-B9Ia}
+FeI       4430.618  (  68)[B6] {G5-K5III;K0-K3II}
+CaI       4434.960  (   4)[A60r] {F5-K5V;G0-K1IV;G0II-M2Ia}
+FeI       4435.151  (   2)[J2] {K0-M2III;K0Ib-M2Ia}
+CaI       4435.688  (   4)[A40] {F5-K5V;G0-K1IV;G0II-M2Ia}
+HeI       4437.549  (  50)[B(1)] {O9V-B9Ia}
+V I       4441.683  (  21)[C25] {K5-M2III}
+FeI       4442.343  (  68)[B12] {K5-M2III;F2-K0II}
+TiII      4443.802  (  19)[A50] {A0V-G0Ia}
+TiII      4444.559  (  31)[B1] {A0Ib-G0Ia}
+FeI       4445.48   (   2)[U(1)] {K0Ib-M2Iab}
+N II      4447.033  (  15)[A10] {B2-B7IV}
+FeI       4447.722  (  68)[J5] {K0-M2III;F2-K0II;G0Ib-K2Iab}
+TiII      4450.487  (  19)[B10] {A3-F5V}
+CaI       4454.781  (   4)[A80] {F5-K5V;A0-K1IV;G0III-K3Ib}
+MnI       4455.012  (  28)[B6] {F2-K0II}
+MnI       4455.318  (  28)[B6] {F2-K0II}
+MnI       4455.821  (  28)[B6] {F2-K0II}
+CaI       4455.887  (   4)[A40] {F5-K5V;G0-K1IV;G0III-K3Ib}
+CaI       4456.612  (   4)[B10] {F5-K5V;G0-K1IV;G0III-K3Ib}
+MnI       4457.045  (  28)[B5] {F2-K0II}
+TiI       4457.428  ( 113)[A40] {G5-K5V}
+V I       4457.479  (  21)[C15] {K5-M2III}
+MnI       4457.549  (  28)[B8] {F2-K0II}
+MnI       4458.262  (  28)[B12] {F2-K0II}
+FeI       4459.121  (  68)[B10] {G5-K5V;K0-K3II}
+V I       4459.760  (  21)[C30] {G0-K1IV;K5-M2III}
+V I       4460.292  (  21)[C50] {G0-K1IV;K5-M2III}
+FeI       4461.654  (   2)[B8] {F0-M2V;K0-M2III;K0Ib-M2Ia}
+TiO       4462.            {K0-M2V;K0-M2III;K0Ib-M2Ia}
+TiII      4464.458  (  40)[B1] {F0-F5V}
+FeI       4466.554  ( 350)[B12] {F0-F5V;K0Ib-M2Ia}
+TiII      4468.493  (  31)[A50] {A0V-K5Ia}
+TiII      4469.160  (  18)[Ctr] {A4-F5V}
+HeI       4471.477  (  14)[B(6)] {O9V-B9Ia}
+HeI       4471.688  (  14)[D(1)] {O9-B9V;O9-B9Iab}
+FeI       4476.021  ( 350)[I10] {F2V-K3II;G0-K0Ib}
+MgII      4481.129  (   4)[A100] {B2V-G0Ia}
+MgII      4481.327  (   4)[A100] {B2V-G0Ia}
+FeI       4482.171  (   2)[J4] {G0V-M2Ia}
+FeI       4482.257  (  68)[J6] {G0V-M2Ia}
+FeII      4489.185  (  37)[A4] {A0Ib-G0Ia}
+FeI       4489.741  (   2)[B3] {K0-M2V;K0-M2III;K0Ib-M2Ia}
+O II      4491.25   (  86)[B3n] {O9-B9Iab}
+FeII      4491.401  (  37)[A5] {A0Ib-G0Ia}
+FeI       4494.568  (  68)[B12] {K0-M2V;K0-M2III;F2-K3II;G0Ib-M2Ia}
+TiI       4496.146  ( 146)[A20] {K0-M2V;K0-M2III;K0Ib-M2Ia}
+CrI       4496.862  (  10)[C100] {K0-M2V;K0-M2III;K0Ib-M2Ia}
+TiII      4501.270  (  31)[A40] {A0V-K0Ia}
+TiO       4506.            {K0-M2Iab}
+N III     4510.92   (   3)[A6] {O9V-B3Ia}
+TiI       4512.734  (  42)[A40] {K0-M2III;K0Ib-M2Ia}
+N III     4514.89   (   3)[A7] {O9V-B3Ia}
+FeII      4520.225  (  37)[A7] {A4-F5V;A0Ib-G0Ia}
+FeII      4522.634  (  38)[A9] {B2-G8V;F0-G5III;B2Ib-G0Ia}
+TiI       4522.798  (  42)[A40] {K0Ib-M2Ia}
+TiI       4527.305  (  42)[A35] {K0-M2III;K0-M2Iab}
+TiI       4527.455  (   7)[E(4)] {K0-M2Iab}
+FeI       4528.619  (  68)[B18] {F5V-M2Ia}
+FeI       4531.152  (  39)[B8] {F2-K0II;G0-K0Ib}
+TiI       4533.238  (  42)[A80] {G0V-M2III;K0II-M2Iab}
+TiII      4533.966  (  50)[B30] {A0IV-K5III;F0II-K2Ib}
+TiI       4534.782  (  42)[B60] {G0V-M2Ia}
+TiI       4535.574  (  42)[B50] {G5-M2V;G0IV-K2Ia}
+TiI       4535.920  (  42)[B40] {G5-M2V;G0IV-K2Ia}
+TiI       4536.051  (  42)[B40] {G5-M2V;G0IV-K3Ib}
+HeII      4541.59   (   2)[A-] {O9-B2V;O9III-B3II;O9-B2Ib;O9-B3Ia}
+TiI       4544.698  (  42)[A30] {G5-M2V;K0III-M2Ia}
+CrI       4545.956  (  10)[C50] {K0-K3II}
+TiI       4547.850  ( 270)[E2] {K0-M2Ib}
+TiO       4548.            {K0-M2Iab}
+TiI       4548.094  ( 270)[B2] {K0Ib-M2Ia}
+TiI       4548.764  (  42)[A35] {K0Ib-M2Ia}
+FeII      4549.467  (  38)[A10] {A0V-F8Ia}
+TiII      4549.622  (  82)[A60n] {A0V-K2Ia}
+TiI       4552.453  (  42)[A35] {G5-M2V;K0III-M2Ia}
+N II      4552.536  (  58)[A4] {B5-B9V}
+SiIII     4552.654  (   2)[A9] {O9V-B9Ia}
+BaII      4554.033  (   1)[A1000R] {G0V-K1IV;F0III-K3II;K0Ib-M2Ia}
+TiI       4555.486  (  42)[A30] {G5-M2V;K0-K3II}
+FeII      4555.890  (  37)[A8] {B3-G9II;A0Ib-G0Ia}
+FeI       4556.129  ( 410,820,974)[J4n] {F2-K0II}
+CrII      4558.659  (  44)[B100] {A0V-G0Ia}
+CrII   P  4558.83   (  44) {A0V-G0Ia}
+TiII      4563.761  (  50)[A30] {F5-F8V}
+CrI       4565.512  (  21)[C50] {K2-K5V;G5-K5III;K0-K3II}
+SiIII     4567.872  (   2)[A7] {O9V-B9Ia}
+MgI       4571.0956 (   1)[A5] {K2-K5V}
+TiII      4571.971  (  82)[A50n] {A0V-G0Ia}
+SiIII     4574.777  (   2)[A4] {O9V-B9Ia}
+V I       4577.173  (   4)[A40w] {K0Ib-M2Ia}
+V I       4578.728  ( 109)[A15] {K0Ib-M2Ia}
+V I       4579.198  ( 109)[A7] {K0Ib-M2Ia}
+V I       4580.394  (   4)[A40w] {K0-M2III;K0Ib-M2Ia}
+CaI       4581.402  (  23)[A40] {F5-K5V;A0-K1IV;G0III-K3Ib}
+FeII      4582.835  (  37)[A3] {A4-A7V}
+V I       4583.783  ( 109)[A5] {K0Ib-M2Ia}
+FeII      4583.829  (  38)[A11] {A0V-G0Ia}
+TiO       4584.     {4587} {K0-M2V;K0-M2III;K0Ib-M2Ia}
+CaI       4585.871  (  23)[A50] {G0-K5V;F2-K0II}
+CaI       4585.923  (  23)[B(2)] {G0-K5V;F2-K0II}
+V I       4586.364  (   4)[A50w] {K0-M2III;K0Ib-M2Ia}
+CrII      4588.217  (  44)[B75] {A4-F5V;A0-A9III;B3-F0II;A0-F8Ib}
+O II      4590.971  (  15)[A9] {O9V-B9IV;O9-B9Ib;O9-B3Ia}
+V I       4591.220  ( 133)[A12] {K0Ib-M2Ia}
+FeI       4592.655  (  39)[B5] {G0V-K3Ib}
+V I       4594.103  (   4)[A60w] {G5V-M2III;K0II-M2Ia}
+O II      4596.174  (  15)[A8] {O9V-B9IV;O9-B9Ib;O9-B3Ia}
+CrI       4600.752  (  21)[C75] {K0Ib-M2Ia}
+CrI       4601.021  (  32)[C30] {K0Ib-M2Ia}
+CrI       4601.15   ( 172)[B20] {K0Ib-M2Ia}
+FeI       4602.944  (  39)[B9] {G0V-M2III;K0II-M2Ia}
+CN        4606.            {G0-K0Ib}
+O II      4609.42   (  93)[B4n] {O9-B9V;O9-B9Iab}
+O II      4610.14   (  92)[B3n] {O9-B9V;O9-B9Iab}
+FeI       4611.285  ( 826)[I5n] {A0-G0IV;K0-K3II}
+FeI       4613.210  ( 554)[J2n] {A0-G0IV;K0-K3II}
+CrI       4613.373  (  21)[C60] {G0V-K1IV;K0-K3II}
+CrI       4614.15   ( 148)[B12] {K0-K3II}
+CrI       4614.523  ( 245)[C12] {K0-K3II}
+CrI       4614.73   (    )[B10] {K0-K3II}
+CrI       4616.137  (  21)[C75] {A4-K5V;K0-K3II}
+CrII      4616.64   (  44)[A18] {A4-F5V;A0-G0Ia}
+TiI       4617.269  ( 145)[A30] {A3-K5V}
+CrII      4618.83   (  44)[A35] {A4-F8V;B9-F9II;A0Ib-G0Ia}
+CrI       4619.551  (  81)[C40] {K0-K3II}
+CrI       4621.00   (  32)[B4] {K0-K3II}
+CrI       4621.893  (  32)[C45*] {K0-K3II}
+CrI       4621.963  (  32,244)[C45*] {K0-K3II}
+CrI       4622.491  ( 233)[C35] {K0-K3II}
+CrI       4622.761  (  81)[C25] {K0-K3II}
+TiI       4623.098  ( 145)[A25] {K2-K5V}
+CrI       4625.30   ( 171)[B3] {K0-K3II}
+CrI       4625.65   ( 244)[B1] {K0-K3II}
+CrI       4625.925  ( 244)[C20] {K0-K3II}
+TiO       4626.            {K0-M2V;K0-M2III;K0Ib-M2Ia}
+CrI       4626.188  (  21)[C65] {G0V-K3IV;K0III-M2Ia}
+FeII      4629.336  (  37)[A7] {A0-A9III;B9-F2II;A0Ib-G0Ia}
+FeI       4630.125  ( 115)[J(2)] {K2-K5V;G5-K5III}
+N II      4630.537  (   5)[A10] {O9-B3III;O9-B3II;O9-B9Ib}
+FeI       4632.915  (  39)[J2] {K0-M2V;G5-M2III;K0Ib-M2Ia}
+CrII      4634.11   (  44)[A25] {F5-F8V;A0Ib-G0Ia}
+N III     4634.16   (   2)[A(9)] {O9III-B3II;O9-B2Ib;O9-B3Ia}
+CrI       4637.182  (  32)[C40] {K0-K3II}
+FeI       4637.512  ( 554)[J3] {K0Ib-M2Ia}
+CrI       4637.772  (  32)[C40] {G5-K5III;K0-K3II}
+O II      4638.854  (   1)[A6] {O9-B2V;O9-B3II;O9Ib-B3Ia}
+TiI       4639.369  ( 145)[B18] {K0Ib-M2Ia}
+CrI       4639.538  ( 186)[D35] {K0-K3II}
+TiI       4639.669  ( 145)[B15] {K0Ib-M2Ia}
+TiI       4639.944  ( 145)[B15] {K0Ib-M2Ia}
+CrI       4640.55   ( 171)[B4] {K0-K3II}
+N III     4640.64   (   2)[A(10)] {O9-B3III;O9-B3II;O9-B2Ib}
+CrI       4640.67   ( 244)[B1] {K0-K3II}
+O II      4641.811  (   1)[A9] {O9V-B9Ia}
+N III     4641.90   (   2)[A(7)] {O9-B2V;O9-B3II;O9-B3Ia}
+CrI       4642.011  ( 244)[C10] {K0-K3II}
+CrI       4646.174  (  21)[C100] {G0V-K3Ia}
+CrI       4646.495  ( 147)[C15] {F2-K3II;G0-K0Ib}
+CrI       4646.808  ( 186)[C20] {F2-K3II;G0-K0Ib}
+C III     4647.40   (   1)[A20] {O9V-B3II;O9-B2Ib;O9-B3Ia}
+FeI       4647.437  ( 409)[B6] {F2-K0II;G0-K0Ib}
+CrI       4648.126  (  32)[C35] {F2-K3II;G0-K0Ib}
+CrI       4648.868  (  32)[C25] {F2-K3II;G0-K0Ib}
+O II      4649.139  (   1)[A10] {O9V-B9Ia}
+CrI       4649.461  (  32)[C45] {F2-K3II;G0-K0Ib}
+C III     4650.16   (   1)[A19] {O9-B2V;O9-B2Ib;O9-B3Ia}
+O II      4650.841  (   1) {B2-B7IV;B2-B9Ib}
+CrI       4651.285  (  21)[C75] {F2-K3II;G0-K0Ib}
+C III     4651.35   (   1)[A18} {O9V-B3Ia}
+CrI       4652.158  (  21)[C100] {F2-K3II;G0-K0Ib}
+SiIV      4654.14   (   7)[A(6)] {O9V-B3Ia}
+FeI       4654.501  (  39)[J5] {G0V-M2Ib}
+FeI       4654.628  ( 554,821)[J5] {F2-K3II;G0-K0Ib}
+CrI       4654.736  ( 186)[C35] {F2-K0II;G0-K0Ib}
+CrI       4656.189  ( 147) {G0-G5V;G0-K1IV;G0II-K0Ib)
+TiI       4656.468  (   6)[A25] {K0-M2V;K0III-M2Ia}
+O II      4661.635  (   1)[A9] {B2Ib-B9Ia}
+FeII      4663.700  (  44)[A0] {F0-F5V}
+CrI       4664.798  ( 186)[C60] {G0-G5V;F2-K0II;G0-K0Ib}
+CrI       4665.902  ( 233)[C35] {F2-K0II}
+CrI       4666.215  (  99)[D25] {A3-A7V;F2-K0II}
+CrI       4666.512  ( 186)[C55] {G0-G5V;F2-K0II;G0-K0Ib}
+FeII      4666.750  (  37)[A2] {A0V-G0Ia}
+CrI       4667.181  (  99)[D30] {A3-A7V;F2-K0II;G0-K0Ib}
+FeI       4667.459  ( 822)[B6] {F0V-G5III;G0II-K0Ib}
+TiI       4667.585  (   6)[A25] {G5-M2V;K0III-M2Ia}
+TiO       4668.     {4669} {K0-M2V;K0-M2III;K0Ib-M2Ia}
+FeI       4668.142  ( 554)[J6] {A0-G0IV;F0-G5III;F2-K0II;G0-K0Ib}
+ScII      4670.404  (  24)[A15] {A0V-G0Ia}
+TiI       4675.118  (  77)[A10] {K0Ib-M2Ia}
+O II      4676.234  (   1)[A8] {B2-B7IV}
+TiI       4681.908  (   6)[A30] {K0-M2III;K0Ib-M2Ia}
+HeII      4685.682  (   1)[A-] {O9-B2V;O9III-B3II;O9-B2Ib;O9-B3Ia}
+CrI       4689.374  ( 186)[C65] {K0-K3II}
+TiI       4691.336  (  75)[A20] {G5-K5V;G5-K5III}
+CrI       4698.456  ( 186)[C60] {K0-K3II;K0Ib-M2Ia}
+CrI       4698.615  (  62,146)[C50] {K0Ib-M2Ia}
+TiI       4698.766  (  75)[A20] {G5-K5V;G5-K5III;K0Ib-M2Ia}
+MgI       4702.9758 (  11)[A40] {A0V-K1IV;F0III-K3II;G0-K0Ib}
+MgI       4702.9831 (  11)[A40] {A0V-K1IV;F0III-K3II;G0-K0Ib}
+MgI       4702.9909 (  11)[A40] {A0V-K1IV;F0III-K3II;G0-K0Ib}
+TiO       4704.            {K0Ib-M2Ia}
+O II      4705.355  (  25)[A8] {O9-B9Iab}
+FeI       4707.281  ( 554)[B8] {G0V-K0Ib}
+TiII      4708.663  (  49)[Ctr] {A0-A9III;A0Ib-G0Ia}
+TiI       4710.186  (  75,203)[A18] {K0-K5V;K0-M2III;K0Ib-M2Ia}
+FeI       4710.286  ( 409)[B5] {F2-K0II;G0-K0Ib}
+HeI       4713.143  (  12)[B(3)] {O9V-B9Ia}
+HeI       4713.373  (  12)[D(1)] {O9V-B9Ia}
+FeI       4714.182  ( 591)[V(1n)] {G0-G5V}
+TiI       4715.295  (   6)[A4] {K0-M2III;K0Ib-M2Ia}
+FeI       4727.405  ( 821)[J3n] {G0-K5V;G5-K5III;F2-K3II;G0-K0Ib}
+FeI       4728.555  ( 822)[J3n] {F2-K3II;G0-K0Ib}
+FeII      4731.439  (  43)[A3] {A0-G0Ia}
+FeI       4733.596  (  38)[B4] {G0-K1IV;G0III-K3II;G0Ib-M2Ia}
+FeI       4736.780  ( 554)[I12] {G5V-K3II}
+O II      4741.71   (  25)[B3] {B2Ib-B9Iab}}
+CrI       4745.308  (  61)[C30] {K0Ib-M2Ia}
+FeI       4745.806  ( 821,1068)[B3n] {K0-M2Ia}
+MnI       4754.042  (  16)[B50] {G0V-K3Ib}
+TiI       4758.120  ( 233)[A25] {K0-M2Iab}
+TiI       4758.913  (  41)[B4] {K0-M2Iab}
+TiI       4759.272  ( 233)[A25] {K0-M2Iab}
+TiO       4761.5           {K0-M2V;K0-M2III;K0Ib-M2Iab}
+MnI       4761.526  (  21)[B10] {F2-K0II;G0-K0Ib}
+MnI       4762.376  (  21)[B30] {G0-K1IV;F2-K0II;G0-K0Ib}
+TiO       4763.            {K0Ib-M2Ia}
+TiII      4764.535  (  48)[C(1)] {A0Ib-G0Ia}
+MnI       4765.859  (  21)[B10] {F2-K0II;G0-K0Ib}
+MnI       4766.430  (  21)[B20] {G0-K1IV;F2-K0II;G0-K0Ib}
+N II      4779.710  (  20)[C4] {B5-B9V;B2-B9III}
+TiII      4779.986  (  92)[B1] {A0-G0IV}
+MgH       4782.            {K5-M2V}
+MnI       4783.420  (  16)[B50] {G0V-K3II}
+TiO       4784.            {K5-M2III}
+FeI       4786.810  ( 467)[B5] {F2-K0II;G0Ib-M2Ia}
+CrI       4789.354  (  31)[D75] {K0-M2Iab}
+FeI       4789.654  ( 753)[B7] {F2-K0II;G0Ib-M2Ia}
+TiII      4798.535  (  17)[C(2)] {A0Ib-G0Ia}
+TiO       4804.     {4805} {K0-M2V;K0-M2III;K0Ib-M2Ia}
+TiII      4805.105  (  92)[B2] {A0V-K0Ia}
+Y II      4823.31   (  22)[A30] {A0-G0Ia}
+MnI       4823.516  (  16)[B50] {A0-G0IV;F2-K0II;K0Ib-M2Ia}
+CrII      4824.13   (  30)[A75] {A0-A3V;A0-G0IV;A0-G0Ia}
+V I       4827.458  (   3)[A30] {K0-K3II;K0-M2Iab}
+V I       4831.642  (   3)[A35] {K0-K3II}
+V I       4832.427  (   3)[A30] {K0-K3II}
+TiO       4847.            {K0Ib-M2Ia}
+TiO       4848.            {K5-M2V;K5-M2III}
+V I       4851.483  (   3)[A40w] {K0-M2Iab}
+TiI       4856.012  ( 231)[A20] {K0-M2Iab}
+H         4861.332  (   1)[A Hbeta] {O9V-M2Ia}
+FeI       4871.323  ( 318)[I25] {F2-K0II}
+FeI       4872.144  ( 318)[I20] {F2-K0II}
+V I       4881.554  (   3)[A50w] {K0-M2III;K0Ib-M2Ia}
+FeI       4890.762  ( 318)[J25] {G0V-K3Ia}
+FeI       4891.496  ( 318)[I50] {G0V-K3Ia}
+FeI       4918.999  ( 318)[B30] {F5V-K1IV;G0III-M2Ia}
+FeI       4920.509  ( 318)[I60] {F5V-M2Ia}
+HeI       4921.929  (  48)[B(4)] {O9V-B9Ia}
+FeII      4923.921  (  42)[A12] {A0V-G8Ia}
+FeI       4924.776  ( 114)[B3] {F2-K0II}
+BaII      4934.086  (   1)[B700R] {A0-K1IV;F0-M2III;K0Ib-M2Ia}
+FeI       4938.820  ( 318)[J10] {F2-K3II;G0Ib-K0Iab}
+FeI       4939.690  (  16)[B4] {F2-K3II;G0Ib-M2Ia}
+CrI       4942.495  (   9)[C200] {K0-K3II}
+FeI       4946.394  ( 687)[J4] {K0-K3II}
+TiO       4955.            {K0-M2V;K0-M2III;K0Ib-M2Ia}
+FeI       4957.302  ( 318)[J20] {F2V-M2Iab}
+FeI       4957.603  ( 318)[I60] {F2V-M2Iab}
+FeI       4978.606  ( 966)[J2] {F2-K0II;G0-K0Ib}
+TiI       4981.732  (  38)[A60] {G5-K5V;G5-M2III;K0Ib-M2Ia}
+FeI       4982.507  (1067)[J8n] {F2-K0II;G0-K0Ib}
+FeI       4983.258  (1067)[J5n] {F2-K0II;G0-K0Ib}
+FeI       4983.855  (1066)[J6n] {F2-K0II;G0-K0Ib}
+FeI       4985.261  ( 984)[J7] {F2-K0II;G0-K0Ib}
+FeI       4985.553  ( 318)[J7] {F2-K0II;G0-K0Ib}
+TiI       4989.140  ( 173)[B10] {K0Ib-M2Ia}
+TiI       4991.067  (  38)[A50] {G5V-M2III;K0II-M2Ia}
+FeI       4994.133  (  16)[B8] {G0IV-K3II}
+TiI       4997.099  (   5)[A8] {G5-M2III;K0II-M2Ia}
+TiI       4999.504  (  38)[A45] {G5-K5V;K0III-M2Ia}
+TiI       5000.991  ( 173)[B10] {K0-K3II}
+FeI       5001.871  ( 965)[B12] {F2-K3II;G0-K0Ib}
+FeI       5002.800  ( 687)[J(6)] {G0-K0Ib}
+TiO       5003.            {K0-M2III;K0Ib-M2Ia}
+FeI       5005.720  ( 984)[J10] {F2-K3II;G0Ib-M2Ia}
+FeI       5006.126  ( 318)[I20] {F0V-K3II;G0Ib-M2Ia}
+TiI       5007.209  (  38)[A40] {K0III-M2Ia}
+FeI       5007.289  ( 966,1065)[J(3n)] {G0-M2Ib}
+TiI       5009.652  (   5)[A7] {K0III-M2Ia}
+FeI       5012.071  (  16)[B12] {G0V-M2Ia}
+TiI       5013.284  ( 173)[B18] {G5-K5III;K0II-M2Ia}
+TiI       5014.185  (   5)[A(25)] {K0III-M2Ia}
+TiI       5014.277  (  38)[A(25)] {K0III-M2Ia}
+FeI       5014.950  ( 965)[J10] {F0V-K1IV;G0II-K0Ia}
+HeI       5015.675  (   4)[B(6)] {O9V-B9Ia}
+TiI       5016.162  (  38)[A20] {K0II-M2Ia}
+FeII      5018.434  (  42)[A12] {A0V-K0Ia}
+TiO       5020.            {K0-M2III}
+TiI       5020.028  (  38)[A25] {K0II-M2Ia}
+FeI       5022.244  ( 965)[J6] {K0-K3II;G0Ib-K0Ia}
+TiI       5022.871  (  38)[A25] {K0-K3II}
+TiI       5024.842  (  38)[A20] {K0-K3II}
+TiI       5025.570  ( 173)[A18] {K0-K3II}
+FeI       5027.136  (1065)[J5n] {K0-K3II;G0-K0Ib}
+FeI       5028.129  ( 791)[J4] {K0-K3II;G0-K0Ib}
+FeI       5030.784  ( 585)[R5] {K0-K3II}
+FeI       5031.030  ( 746,883)[R2] {K0-K3II}
+FeI       5031.901  (1150)[R8] {K0-K3II}
+FeI       5035.025  ( 885)[R3] {K0-K3II}
+TiI       5035.908  ( 110)[A25] {K0-K3II}
+FeI       5036.294  (    )[R6] {K0-K3II}
+TiI       5036.468  ( 110)[A25] {K0-K3II}
+FeI       5036.931  ( 465)[R2] {K0-K3II}
+TiI       5038.400  ( 110)[A25] {K0-K3II}
+TiI       5039.959  (   5)[A22] {K0-K3II}
+TiI       5040.642  (  38)[B6] {K0-K3II}
+FeI       5041.074  (  16)[J7] {G0II-M2Ia}
+FeI       5041.759  (  36)[B10] {G0II-M2Ia}
+HeI       5047.736  (  47)[B(2)] {O9-B3IV;O9-B3II;O9-B3Ia}
+FeI       5049.825  ( 114)[B15] {K0-K3II;K0-M2Ib}
+FeI       5051.636  (  16)[B10] {K0II-M2Ia}
+TiI       5064.654  (   5)[A25] {K0Ib-M2Ia}
+FeI       5065.020  (1094)[J6n] {F2-K3II;G0-K0Ib}
+FeI       5068.774  ( 383)[J10] {F2-K3II;G0-K0Ib}
+FeI       5074.757  (1094)[J10n] {F2-K3II;G0-K0Ib}
+FeI       5079.226  (  66)[J6] {F2-K3II;G0-K0Ib}
+FeI       5079.742  (  16)[J4] {G5-K5V;G5-K5III;G0II-K0Iab}
+NiI       5080.523  ( 143)[B30] {G5-K5V}
+FeI       5083.342  (  16[B7] {G5-K5V;G0II-M2Ia}
+NiI       5084.081  ( 162)[B15] {G5-K5V}
+TiI       5085.333  ( 109)[B4] {K5-M2III}
+FeI       5098.703  (  66)[J8] {K0-K3II}
+FeI       5107.645  (  36)[J8] {K0-M2III;K0Ib-M2Ia}
+FeI       5110.414  (   1)[B10] {K0-M2III;K0Ib-M2Ia}
+CrI       5123.465  (  20)[C35] {K0-M2Ib}
+FeI       5123.723  (  16)[B6] {K0-M2III;K0Ib-M2Ia}
+FeI       5127.363  (  16)[B5] {K0Ib-M2Ia}
+TiII      5129.143  (  86)[B1] {A0-G0Ia}
+FeI       5133.692  (1092)[J20n] {G2-K0II;G0-K0Ib}
+FeI       5137.388  (1090)[J6n] {G0II-K0Ib}
+FeI       5139.260  ( 383)[J10] {G0II-K0Ib}
+FeI       5139.468  ( 383)[J20] {G0II-K0Ib}
+FeI       5142.932  (  16)[J6] {G0II-K0Ib}
+FeI       5150.843  (  16)[B6] {G0II-K0Ib}
+FeI       5151.915  (  16)[J4] {G0II-K0Ib}
+O II      5160.02   (  32)[B4] {O9-B9Iab}
+FeI       5166.286  (   1)[J4] {K0-M2Iab}
+TiO       5167.            {K0-M2V;K0-M2III;K0Ib-M2Ia}
+MgI       5167.3216 (   2)[A40] {A0V-M2Ia)
+FeI       5167.491  (  37)[B40] {K0-M2Iab}
+FeI       5168.901  (   1)[B4] {K0-M2V;K0-M2Iab}
+FeII      5169.030  (  42)[A12] {A0-A7V;B3-G2II;A0Ib-G0Ia}
+FeII      5169.733  (    )[A1] {A0Ib-G0Ia}
+MgI       5172.6843 (   2)[A80] {A0V-M2Ia}
+FeII      5173.002  ( 185)[A0] {A0-G0Ia}
+MgI       5183.6042 (   2)[A125] {A0V-M2Ia}
+O II      5190.56   (  32)[B3] {O9-B9Iab}
+CrI       5204.518  (   7)[C200R] {K0-M2III;K0Ib-M2Ia}
+FeI       5204.582  (   1)[J2] {K0-M2Iab}
+CrI       5206.039  (   7)[C300R] {K0-M2III;K0Ib-M2Ia}
+O II      5206.73   (  32)[B5] {O9-B9Iab}
+CrI       5208.436  (   7)[C500R] {K0-M2III;K0Ib-M2Ia}
+TiII      5226.534  (  70)[B5] {A0-G0Ia}
+FeI       5226.868  ( 383)[J15] {G0Ib-M2Ia}
+FeI       5227.192  (  37)[B40] {A0IV-M2Ia}
+FeI       5229.857  ( 553,1090)[J5n] {G0II-K0Ib}
+FeI       5232.946  ( 383)[I40] {G0-K1IV;G2-K0II;G0-K0Ib}
+TiO       5240.            {K0-M2III;K0Ib-M2Ia}
+FeI       5247.052  (   1)[V1] {K0Ib-M2Ia}
+CrI       5247.564  (  18)[C150] {K0-M2Iab}
+FeI       5250.212  (   1)[V1] {K0-M2Iab}
+FeI       5250.650  (  66)[B6] {K0-M2Iab}
+FeI       5254.956  (   1)[V1] {K0-M2Iab}
+CaI       5260.375  (  22)[A2] {F5V-M2V;A0IV-G0IV;G0-K0Ib}
+CaI       5261.706  (  22)[A20] {F5-M2V;A0-G0IV;G0II-K2Ib}
+TiII      5262.104  (  70)[B5] {A0-G0Ia}
+CaI       5262.244  (  22)[A25] {F5-M2V;A0-G0IV;G0III-K3Ib}
+FeI       5263.314  ( 553)[J8] {F0-F5V;F2-K0II}
+CaI       5264.239  (  22)[A20] {F5-M2V;A0-G0IV;G0II-K3Ib}
+FeII      5264.801  (  48)[A2] {A0-G0Ia]
+CaI       5265.557  (  22)[A40] {F5-M2V;A0-G0IV;G0II-K3Ib}
+FeI       5266.562  ( 383)[I30] {F5-F8V;A0IV-A9III;G0II-K0Ib}
+FeI       5269.541  (  15)[I60] {G0V-K3Ib}
+CaI       5270.270  (  22)[A60] {F5-M2V;G0III-K0Ib}
+FeI       5270.360  (  37)[B30] {G0-K1IV;F2-K3II;G0-K0Ib}
+FeII      5272.413  ( 185)[A2] {A0-G0Ia}
+FeII      5275.994  (  49)[A7] {A0-G0Ia}
+FeII      5278.265  ( 225)[A0n] {A0-G0Ia}
+FeII      5278.955  ( 184)[A0n] {A0-G0Ia}
+FeI       5281.796  ( 383)[I10] {G0-K0Ib}
+FeI       5283.628  ( 553)[I18] {F0-F8V;G0-K0Ib}
+FeII      5284.092  (  41)[A3] {A0-G0Ia}
+CrI       5296.686  (  18)[C100] {K0Ib-M2Ia}
+CrI       5297.360  (  94)[C60w] {K0Ib-M2Ia}
+CrI       5297.976  (  94)[C40w] {K0Ib-M2Ia}
+CrI       5298.269  (  18)[C100] {K0-M2III;K0Ib-M2Ia}
+CrI       5300.749  (  18)[C75] {K0Ib-M2Ia}
+FeI       5302.307  ( 553)[I10] {K0-M2Iab}
+FeI       5307.365  (  36)[B2] {K0-M2Iab}
+TiO       5308.            {K0-M2Iab}
+FeII      5315.618  ( 225)[A0n] {A0-G0Ia}
+FeII      5316.609  (  49)[A8] {F0-F5V;B3-F2II;A0-G0Ia}
+FeII      5316.777  (  48)[A4] {A0-G0Ia}
+FeII      5318.025  (    )[A1] {A0-G0Ia}
+FeII      5318.267  (    )[A0] {A0-G0Ia}
+FeI       5324.185  ( 553)[I30] {G0-K1IV;G2-K0II}
+FeII      5325.559  (  49)[A2] {A0-G0Ia}
+FeI       5328.042  (  15)[I50] {G0V-M2Ia}
+FeI       5328.534  (  37)[B15] {G0V-M2Ia}
+FeI       5339.935  ( 553)[I12] {G0II-K0Ib}
+FeI       5341.026  (  37)[B20] {K5-M2III;G0II-K0Ib}
+CrI       5345.807  (  18)[C500] {K0-M2III;K0Ib-M2Ia}
+CrI       5348.319  (  18)[C350] {K0-M2III;K0Ib-M2Ia}
+TiO       5359.            {K0-M2Iab}
+FeI       5364.874  (1146)[I15n] {G2-K0II}
+FeI       5365.403  ( 786)[J3] {G2-K0II}
+FeI       5367.470  (1146)[I20n] {G2-K0II}
+FeI       5369.965  (1146)[I25n] {G2-K0II;K0Ib-M2Ia}
+FeI       5371.493  (  15)[B50] {G0V-M2Ia}
+FeI       5383.374  (1146)[I35n] {F2-K0II}
+FeI       5393.174  ( 553)[I10] {F2-K0II;G0-K0Ib}
+FeI       5397.131  (  15)[B40] {G0V-M2Ia}
+FeI       5404.144  (1165)[I30n] {G0-K1IV;F2-K0II;G0-K0Ib}
+FeI       5405.778  (  15)[B40] {G0V-M2Ia}
+CrI       5409.791  (  18)[C500] {K0Ib-M2Ia}
+FeI       5410.913  (1165)[I15n] {G0-M2Ib}
+FeI       5415.201  (1165)[I35n] {G0-K0Ib}
+FeI       5424.072  (1146)[I45n] {A0-G0Ia}
+FeII      5425.269  (  49)[A2] {A0Ib-G0Ia}
+FeII      5427.832  (    )[B30] {A0Ib-G0Ia}
+FeI       5429.699  (  15)[B40] {A0V-M2Ia}
+FeI       5434.527  (  15)[B30] {A0V-M2Ia}
+FeI       5445.045  (1163)[J15n] {K0-K3II;A0-M2Ia}
+FeI       5446.920  (  15)[B40] {A0V-M2Ia}
+TiO       5448.            {K0-M2III;K0Ib-M2Ia}
+TiO       5451.     {5464} {K0-M2Iab}
+FeI       5455.613  (  15)[B40] {A0V-M2Ia}
+FeI       5463.282  (1163)[J10n] {G2-K0II}
+FeII      5466.021  (    )[A2] {A0-G0Ib}
+FeII      5466.94   (    )[B20] {A0-F8Ib}
+TiI       5490.840  (   3)[B(0)] {K0-K3II}
+TiI       5494.726  ( 108)[B(1)] {K0-K3II}
+TiO       5497.     {5498} {K0-M2III;K0Ib-M2Ia}
+FeI       5497.519  (  15)[B15] {K0-M2III;G2-K0II;K0Ib-M2Ia}
+FeI       5501.469  (  15)[B12] {K0III-M2Ia}
+TiI       5503.897  ( 287)[A8] {K0-K3II}
+FeI       5506.782  (  15)[B18] {K0III-M2Ia}
+TiI       5511.795  ( 108,275)[B2] {K0-K3II}
+TiI       5512.529  ( 106)[A25] {K0-K3II}
+TiI       5514.350  ( 106)[B20] {K0-M2III;K0-K3II}
+TiI       5514.536  ( 106)[B25] {K0-M2III;K0-K3II}
+ScII      5526.809  (  31)[A75] {A0-G0Ia}
+MgI       5528.3876 (   9)[A(2)] {A0-G0Ia}
+MgI       5528.3986 (   9)[A(2)] {A0-G0Ia}
+MgI       5528.4094 (   9)[A(10)] {G2-K0II;A0-G0Ia}
+FeII      5534.860  (  55)[A4] {A0-G0Ia}
+FeI       5569.625  ( 686)[B20] {G2-K0II}
+FeI       5572.849  ( 686)[B30] {G2-K3II}
+CaI       5581.971  (  21)[A25] {F6-K1IV;G0-M2Iab}
+FeI       5586.763  ( 686)[B40] {G5-K5III;G2-K3II;G0-K0Ib}
+CaI       5588.757  (  21)[A80] {A0-G0IV;G0II-K0Iab}
+CaI       5590.120  (  21)[A20] {A0-G0IV;G0II-K0Iab}
+CaI       5594.468  (  21)[A60] {A0-G0IV;G0-M2Iab}
+TiO       5597.            {K0-M2III;K0Ib-M2Ia}
+CaI       5602.846  (  21)[A25] {F6-K1IV}
+TiO       5603.            {K0-M2V;K0-M2Iab}
+FeI       5615.652  ( 686)[B50] {G5-K5V;K0II-M2Ia}
+FeI       5624.549  ( 686)[B10] {G2-K0II}
+V I       5624.605  (  37)[A20] {K0-M2Iab}
+V I       5624.895  (  37)[A10} {K0-M2Iab}
+V I       5626.014  (  37)[A6] {K0-M2Iab}
+V I       5627.628  (  37)[A30] {K0-M2Iab}
+FeI       5658.826  ( 686)[B10] {A0-G0IV;G2-K3II;K0Ib-M2Ia}
+SiII      5669.590  (    )[A4] {B9-A0V}
+ScII      5684.190  (  29)[A15] {A0-A9III;A0Ib-G0Ia}
+FeI       5698.37   (1130)[W(2)] {G5-K5III;K0-K3II}
+FeI       5709.378  ( 686)[K10] {F2-K0II;G0-K0Ib}
+NiI       5709.559  (  46)[B12] {G2-K0II;G0-K0Ib}
+MgI       5711.0735 (   8)[A(6)] {F2-K0II}
+MgI       5711.0831 (   8)[A(1)] {F2-K0II}
+MgI       5711.0912 (   8)[A(1)] {F2-K0II}
+NiI       5711.905  (  69)[B5] {G2-K0II;G0-K0Ib}
+V I       5727.024  (  35)[A60] {K0-M2III;K0Ib-M2Ia}
+V I       5727.662  (  35)[A20] {K0Ib-M2Ia}
+V I       5731.257  (  36)[A30] {K0Ib-M2Ia}
+V I       5734.004  ( 135)[A5] {K0Ib-M2Ia}
+V I       5737.040  (  35)[A25] {K0Ib-M2Ia}
+SiIII     5739.762  (   4)[A8] {O9-B9Iab}
+V I       5743.438  (  35)[A18] {K0Ib-M2Ia}
+NiI       5748.343  (  45)[B2] {G2-K0II;G0-K0Ib}
+FeI       5753.136  (1107)[J5] {G2-K0II;G0-K0Ib}
+NiI       5754.675  (  68)[B10] {G2-K0II;G0-K0Ib}
+FeI       5762.992  (1107)[K10] {G5-K5III;K0-K3II}
+FeI       5780.621  ( 552)[V(2)] {G5-K5III;K0-K3II}
+TiI       5780.778  ( 214)[B2] {K0-M2Iab}
+CrI       5780.97   ( 188)[B10] {G0-M2Iab}
+CrI       5781.195  ( 119,188)[C40] {G0Iab-M2Ia}
+CrI       5781.806  ( 188)[C40] {G0Iab-M2Ia}
+CrI       5783.112  ( 188)[C50] {G0Iab-M2Ia}
+CrI       5783.934  ( 188)[C50] {G0Iab-M2Ia}
+CrI       5785.002  ( 188)[C50] {G0Iab-M2Ia}
+CrI       5785.820  ( 188)[C50] {G0Iab-M2Ia}
+CrI       5787.99   ( 188)[C75] {G0Iab-M2Ia}
+CrI       5791.005  ( 188)[C100] {G5-K5III;K0II-M2Ia}
+BaII      5853.675  (   2)[A200] {A0-G0Ia}
+CaI       5857.454  (  47)[A100] {G2-K0II;A0-G0Ia}
+TiO       5862.     {5863} {K0-M2V;K0-M2Iab}
+TiI       5866.453  (  72)[A35] {K0-M2Iab}
+HeI       5875.618  (  11)[BD(10)] {O9IV-B9Ia}
+HeI       5875.650  (  11)[BD(10)] {O9IV-B9Ia}
+HeI       5875.989  (  11)[D(1)] {O9IV-B9Ia}
+NaI       5889.953  (   1)[A(10R)] {O9V-M2Ia}
+NaI       5895.923  (   1)[A(9R)] {O9V-M2Ia}
+TiI       5918.548  (  71)[A10] {K0Ib-M2Ia}
+TiI       5922.112  (  72)[A18] {K0Ib-M2Ia}
+SiII      5978.970  (   4)[A7] {B2-B9V}
+MnI       6013.498  (  27)[B30] {F2-K3II;G0-K0Ib}
+MnI       6016.637  (  27)[C40] {F2-K3II;G0-K0Ib}
+FeI       6020.173  (1178)[K10n] {F2-K3II;G0-K0Ib}
+MnI       6021.802  (  27)[C50] {F2-K3II;G0-K0Ib}
+FeI       6024.066  (1178)[K15] {F2-K3II;G0-K0Ib}
+FeI       6027.057  (1018)[B4] {F2-K3II;G0-K0Ib}
+FeI       6065.487  ( 207)[B15] {G2-K0II}
+CaI       6102.722  (   3)[A80] {A0-A9III;A0-G0Ia}
+CaI       6122.219  (   3)[A100] {A0-A9III;A0Ib-M2Ia}
+FeI       6136.620  ( 169)[B20] {G0II-M2Ia}
+FeI       6137.696  ( 207)[B18] {G0II-M2Ia}
+BaII      6141.718  (   2)[A600r] {A0II-M2Ia}
+CaI       6156.10   (  20)[F(1)] {G0Ib-M2Iab}
+TiO       6159.            {K0-M2V;K0-M2III;K0Ib-M2Ia}
+CaI       6161.289  (  20)[A10] {G5-K5V;G0II-K0Iab}
+CaI       6162.172  (   3)[A150] {G5-K5V;A0III-K0Ia}
+CaI       6163.758  (  20)[A10] {G5-K5V;G0II-K0Iab}
+CaI       6166.443  (  20)[A15] {G5-K5V;G0II-K0Iab}
+CaI       6169.055  (  20)[A25] {G5-K5V;G5-K5III;G0II-K0Iab}
+CaI       6169.559  (  20)[A40] {G5-K5V;G5-K5III;G0II-K0Iab}
+NiI       6170.568  ( 228,230)[B(3)] {K0-K3II}
+FeI       6213.438  (  62)[I5] {K0Ib-M2Ia}
+V I       6242.80   (  19)[A15] {K5-M2III}
+V I       6243.11   (  19)[A30] {K5-M2III}
+FeI       6246.334  ( 816)[K15] {G2-K0II;G0-K0Ib}
+FeI       6252.561  ( 169)[B20] {G2-K0II;G0-K0Ib}
+FeI       6254.262  ( 111)[I6] {G2-K0II;G0-K0Ib}
+FeI       6256.370  ( 169)[I4] {G2-K0II;G0-K0Ib}
+TiI       6258.103  ( 104)[A40] {G5-K5III;G0-M2Iab}
+TiI       6258.706  ( 104)[A50] {G5-K5III;G0II-M2Iab}
+TiI       6261.101  ( 104)[A35] {G5-M2III;G0II-M2Iab}
+TiO       6268.            {K0-M2Iab}
+Int.band  6270.     {6284} {O9-B9III;O9-B9II;O9Ib-B9Ia}
+HeII      6310.8    (   7)[A-] {O9-B1III;O9-B3II}
+SiII      6347.091  (   2)[A10] {A0V-G0Ia}
+SiII      6371.359  (   2)[A8] {A0V-G0Ia}
+TiO       6384.            {K7-M2V}
+FeI       6393.605  ( 168)[B400] {F2-K0II;G0-K0Ib}
+FeI       6400.010  ( 816)[I800] {F2-K0II;G0-K0Ib}
+FeI       6408.031  ( 816)[I60] {F2-K0II;G0-K0Ib}
+FeI       6411.658  ( 816)[I400] {F2-K0II;G0-K0Ib}
+CaI       6439.073  (  18)[A150] {A0-G0Ia}
+FeII      6456.376  (  74)[A200] {B9-A3V;A0-G0Ia}
+CaI       6462.566  (  18)[A125] {A0-G0Ia}
+CaI       6493.780  (  18)[A80] {G5-K5V;F2-K0II;G0-K0Ib}
+FeI       6494.985  ( 168)[B1000] {G5-K5V;F2II-K0Iab}
+BaII      6496.896  (   2)[A600r] {F2-K0II;G0Ib-M2Ia}
+CaI       6499.649  (  18)[A30] {G5V-K5V;F2-K0II;G0-K0Ib}
+H         6562.817  (   1)[A Halpha] {O9V-K3Ia}
+TiO       6651.            {K0-M2V;K0-M2III;K0Ib-M2Ia}
+TiO       6658.            {K0-M2Iab}
+SiII      6671.88   (    )[A3] {B9-A3V}
+FeI       6677.993  ( 268)[B600] {A3-A5V}
+HeI       6678.149  (  46)[B(6)] {O9V-B9Ia}
+TiO       6681.            {K7-M2V}
+TiO       6715.            {K7-M2V}
+CaI       6717.685  (  32)[A500n] {F5-G5V;F2-K0II;G0-K0Ib}
+FeI       6750.152  ( 111)[I100] {A0-G0IV}
+C II      6780.27   (  14)[A(2)] {O9-B3II}
+TiO       6782.            {K7-M2V}
+C II      6783.75   (  14)[A(6)] {O9-B3II}
+TiO       6815.            {K0-M2V;K0-M2Iab}
+FeI       6839.828  ( 205)[V4] {K0-M2Iab}
+FeI       6841.349  (1195)[I80] {K0-M2Iab}
+FeI       6842.668  (1197)[V6n] {K0-M2Iab}
+FeI       6843.671  (1173)[I60] {K0-M2Iab}
+TiO       6850.            {K5-M2V}
+FeI       6855.176  (1195)[I150] {K0-M2Iab}
+O2Bband   6867.     {6944} {O9V-M2Ia}
+TiO       7054.            {K0-M2V;K0-M2III;K0Ib-M2Ia}
+HeI       7065.188  (  10)[B(5)] {O9-B3II;O9-B3Ia}
+HeI       7065.719  (  10)[D(1)] {O9-B3II;O9-B3Ia}
+TiO       7088.            {K7-M2V}
+TiO       7094.            {K0-M2Iab}
+TiO       7126.            {K7-M2V}
+H2Oa-band 7168.     {7394} {O9V-M2Ia}
+HeI       7281.349  (  45)[B(3)] {B2-B7IV;O9-B3II}
+FeI       7445.776  (1077)[E200] {A3-A7V}
+FeI       7495.088  (1077)[E400] {F2-K0II}
+FeI       7511.045  (1077)[E800] {F2-K0II}
+TiO       7589.            {K0-M2V;K0-M2III;K0Ib-M2Ia}
+O2Aband   7594.     {7684} {O9V-M2Ia}
+TiO       7751.            {K7-M2V}
+O I       7771.96   (   1)[A27] {O9V-K0Ia}
+O I       7774.18   (   1)[A26] {O9V-K0Ia}
+O I       7775.40   (   1)[A25] {O9V-K0Ia}
+H2Oatm    8134.     {8339} {O9V-M2Ia}
+O I       8446.35   (   4)[A25] {B2-B9V}
+CaII      8498.018  (   2)[B300] {F0V-G5III}
+CaII      8542.089  (   2)[B1500] {F0V-G5III}
+CaII      8662.140  (   2)[B1000] {F0V-G5III}
+P13       8665.     (    ) {B2-A5V}
+N I       8683.38   (   1)[A8] {B2-B9V}
+P12       8750.     (    ) {B9-A3V;B2-B7IV;O9-A9III}
