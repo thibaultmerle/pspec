@@ -15,6 +15,7 @@ Main options for comparison are:
 
 Directories
 -----------
+in - input test stellar spectra with different formats
 bs - benchmark stars - optical spectra of the Sun and Arcturus in binary format
 ll - linelists - list of lines for visual identification
 				  Fraunhofer lines, 
@@ -104,8 +105,8 @@ options are strictly equivant to give the central wavelength (-w) and the range 
 Your input file could be as:
 
 # Path and name of spectra | Legend |unit|sym| shift | save | broadening | group | absolute legend position
-test.bin                   |theo    |    |   |       |      |    6       | 1     | 0.9
-test.fit                   |obs     |    |   |       |      |            | 1     | 1.1
+in/test.bin                |theo    |    |   |       |      |    6       | 1     | 0.9
+in/test.fit                |obs     |    |   |       |      |            | 1     | 1.1
 bs/sun_kpno.bin            |  Sun   |    |   |       |      |            | 2     | 
 
 The line command could be as:
