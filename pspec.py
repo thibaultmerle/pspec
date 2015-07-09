@@ -1,7 +1,8 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-import os, struct
+import os
+import struct
 import argparse as ap
 
 try:
@@ -114,6 +115,8 @@ def cosmic_rejection(x, y, n):
 
 #----------------------------------------------------------------------
 def broadgauss(x, y, sigma):
+   '''Gaussian function for broadening'''
+
    bla = True
    plot = False
    c = 299792458.
@@ -143,6 +146,7 @@ def broadgauss(x, y, sigma):
 
 #----------------------------------------------------------------------
 def make_gauss(N, mu, sd):
+   '''Normal gaussian function called by broadgauss function'''
    k = N / (sd * pl.sqrt(2*pl.pi))
    s = -1.0 / (2 * sd * sd)
    def f(x):
@@ -232,6 +236,7 @@ def linear_norm(x, y, msk, eps=0.003, deps=0.001, nmin=2, nwin=3):
 
 #----------------------------------------------------------------------
 def get_data(ifname):
+   '''Get spectrum for a given input filename'''
    bla = False
 
    i = ifname.rfind('.')
@@ -272,6 +277,8 @@ def get_data(ifname):
 
 #----------------------------------------------------------------------
 def uniform_wave(x, y, xmin, xmax, n=6000):
+   '''Set an uniform x scale by interpolation of x'''
+
    eps = 0.001 # Tolerance on the constant step
    bla = False
    if x.size >= n: 
@@ -303,6 +310,8 @@ def uniform_wave(x, y, xmin, xmax, n=6000):
 
 #----------------------------------------------------------------------
 def select_data(i, data, lbdmin, lbdmax, obslist, lbdunitlist, hshiftlist):
+   '''Selection of spectrum in a given wavelength range'''
+
    bla = False
    global p
 
@@ -369,6 +378,8 @@ def select_data(i, data, lbdmin, lbdmax, obslist, lbdunitlist, hshiftlist):
 
 #----------------------------------------------------------------------
 def select_ll(llfile, lbdmin, lbdmax, lbdrange):
+   '''Select lines to show on the plot by vertical lines'''
+
    bla = False
 
    try: 
@@ -436,6 +447,7 @@ def select_ll(llfile, lbdmin, lbdmax, lbdrange):
 
 #----------------------------------------------------------------------
 def get_ilist(fname):
+   '''Get input list of spectra filenames'''
 
    ilist = []
 
@@ -463,6 +475,8 @@ def get_ilist(fname):
 
 #----------------------------------------------------------------------
 def get_ip(ilist):
+   '''Get input parameters from the configuration file'''
+   
    bla = False
 
    # Initialize empty lists for the configuration files
