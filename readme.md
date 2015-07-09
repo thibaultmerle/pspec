@@ -185,9 +185,9 @@ Default options:
 An example of an extensive input file:
 
     $ cat speclist.txt
-    \# Path and name of spectra | Legend |unit|sym| shift | save | broadening | group | absolute legend position |    normalization  
-    bs/sun_kpno.bin            |  Sun   |    |r- |       | True |   6        |       |  
-    bs/arcturus_hermes.bin     |Arcturus|    |b- | -0.2  |      |            |       |  
+    # Path and name of spectra | Legend |unit|sym|shift|save| broadening |group| absolute legend position |    normalization  
+    bs/sun_kpno.bin            |  Sun   |    |r- |     |True|   6        |     |  
+    bs/arcturus_hermes.bin     |Arcturus|    |b- |-0.2 |    |            |     |  
 
 Bugs report
 -----------
