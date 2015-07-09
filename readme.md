@@ -70,23 +70,21 @@ Warning: change the linelist paths according to your file tree.
 How to run pspec?
 -----------------
 
-- The simplest way is: 
+-   The simplest way is: 
 
+        $ pspec
 
-    $ pspec
+    This will try to find a input file name `speclist.txt` and display the spectra with their specifications.
 
-This will try to find a input file name `speclist.txt` and display the spectra with their specifications.
+-   The secund simplest way is:
 
-- The secund simplest way is:
+        $ pspec path\_and\_name\_of\_your\_spectrum
 
+    E.g:
 
-    $ pspec path\_and\_name\_of\_your\_spectrum
+        $ pspec bs/sun_kpno.bin
 
-E.g:
-
-    $ pspec bs/sun_kpno.bin
-
-This will display the spectrum over its entire wavenlength range
+    This will display the spectrum over its entire wavenlength range
    
 What and how can I plot with `pspec`?
 -------------------------------------
