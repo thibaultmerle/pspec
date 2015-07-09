@@ -89,56 +89,54 @@ How to run pspec?
 What and how can I plot with `pspec`?
 -------------------------------------
 
-- Imagine that you have 3 observed spectra (`spec1.fits`, `spec2.fits` and `spec3.fits`) 
-that you want to visually inspect between 5160 and 5190 Å with line identification.
+-   Imagine that you have 3 observed spectra (`spec1.fits`, `spec2.fits` and `spec3.fits`) that you want to visually inspect between 5160 and 5190 Å with line identification.
 
 
-    $ pspec spec1.fits spec2.fits spec3.fits -wmin 5160 -wmax 5190 -nn -vs 1 -l
+        $ pspec spec1.fits spec2.fits spec3.fits -wmin 5160 -wmax 5190 -nn -vs 1 -l
     
-which is strictly equivalent to:
+    which is strictly equivalent to:
 
-    $ pspec spec1.fits spec2.fits spec3.fits -w 5175 -r 30 -nn -vs 1 -l
+        $ pspec spec1.fits spec2.fits spec3.fits -w 5175 -r 30 -nn -vs 1 -l
 
-`-wmin` and `-wmax` options are the min and the max wavelength range in  Å and these
-options are strictly equivant to give the central wavelength (`-w`) and the range (`-r`)
+    `-wmin` and `-wmax` options are the min and the max wavelength range in  Å and these options are strictly equivant to give the central wavelength (`-w`) and the range (`-r`)
 
-`-n` does constant normalization whereas -nn does linear normalization
+    `-n` does constant normalization whereas -nn does linear normalization
 
-`-vs` 1 says that the spectra has to be shift vertically by arbitray unit of one
+    `-vs` 1 says that the spectra has to be shift vertically by arbitray unit of one
 
-`-l` says to add a default linelist identification to the plot but you can specify an other file
+    `-l` says to add a default linelist identification to the plot but you can specify an other file
 
 
-- Imagine that you want to compare a theoretical spectrum with observation (i.e. stacked) and you want to add over that a benchmark spectrum for comparison. You want to smooth the theoretical one at 6 km/s to stick to the resolution of the observed spectrum.
+-   Imagine that you want to compare a theoretical spectrum with observation (i.e. stacked) and you want to add over that a benchmark spectrum for comparison. You want to smooth the theoretical one at 6 km/s to stick to the resolution of the observed spectrum.
 
-Your input file could be as:
+    Your input file could be as:
 
-    # Path and name of spectra | Legend |unit|sym| shift | save | broadening | group | absolute legend position  
-    in/test.bin                |theo    |    |   |       |      |    6       | 1     | 0.9  
-    in/test.fit                |obs     |    |   |       |      |            | 1     | 1.1  
-    bs/sun_kpno.bin            |  Sun   |    |   |       |      |            | 2     |   
+        # Path and name of spectra | Legend |unit|sym| shift | save | broadening | group | absolute legend position  
+        in/test.bin                |theo    |    |   |       |      |    6       | 1     | 0.9  
+        in/test.fit                |obs     |    |   |       |      |            | 1     | 1.1  
+        bs/sun_kpno.bin            |  Sun   |    |   |       |      |            | 2     |   
 
-The line command could be as:  
+    The line command could be as:  
 
-    $ pspec -w 8498 -r 20 -nn -l -vs 1
+        $ pspec -w 8498 -r 20 -nn -l -vs 1
 
 How to make available pspec where ever you are?
 -----------------------------------------------
 
-- Link it in e.g. $HOME/bin:
+-   Link it in e.g. $HOME/bin:
 
 
-    $ ln -s pspec.py $HOME/bin
+        $ ln -s pspec.py $HOME/bin
 
-- create an alias in your hidden configuration file  
- For bash shell in .bashrc:
+-   create an alias in your hidden configuration file  
+    For bash shell in .bashrc:
 
 
-     alias pspec=/home/tmerle/dev/pspec/pspec.py
+         alias pspec=/home/tmerle/dev/pspec/pspec.py
 
- For tcsh shell in .tcshrc:
+    For tcsh shell in .tcshrc:
 
-     alias pspec '/home/tmerle/dev/pspec/pspec.py' 
+         alias pspec '/home/tmerle/dev/pspec/pspec.py' 
 
 How to configure an input file?
 -------------------------------
