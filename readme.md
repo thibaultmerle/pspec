@@ -24,18 +24,18 @@ Directories
 - **in**: input test stellar spectra with different formats
 - **bs**: benchmark stars - optical spectra of the Sun and Arcturus in binary format
 - **ll**: linelists - list of lines for visual identification
-				  * Fraunhofer lines,  
-				  * solar lines (Moore 1966),  
-				  * stellar lines (Coluzzi 1993),  
-				  * stellar lines only with stellar type (Coluzzi 1993),  
-				  * molecular lines (Turnshek 1985, based on cool K and M stars)  
-				  * VALD (exhaustive linelist, not very useful for the moment)  
+				  - Fraunhofer lines,  
+				  - solar lines (Moore 1966),  
+				  - stellar lines (Coluzzi 1993),  
+				  - stellar lines only with stellar type (Coluzzi 1993),  
+				  - molecular lines (Turnshek 1985, based on cool K and M stars)  
+				  - VALD (exhaustive linelist, not very useful for the moment)  
 
 Application
 -----------
 `pspec.py` - python 2.7 tool to plot spectra based on matplotlib graphic library modules required:  
-		   * in standard library: `os`, `struct`, `argparse`  
-		   * not in standard library: `pylab` and `pyfits`  
+		   - in standard library: `os`, `struct`, `argparse`  
+		   - not in standard library: `pylab` and `pyfits`  
 
 Input files
 -----------
@@ -158,15 +158,15 @@ E.g:
 Then  you can specified 9 parameters per entries. The field separator is `|`.
 The order of the parameters matters.
 
-- The legend for the spectrum  
-- The unit of wavelength: in Angström [Å|A|a] or in nanometer [nm] (Default)  
-- The symbol used for plotting spectrum (e.g. '`r+`' for red line with plusses, '`k-`' for black line,...)  
-- The wavelength shift in Å (only useful for plotting a specific line, to improve for radial velocity correction)  
-- Save option (True|False): post-processed spectrum in written in ASCII format  
-- Individual broadening parameter (dispersion in km/s): without effect if the line command option `-b` is used  
-- The group option: integer which specifies at which group among a spectrum (useful with `-vs` line command argument)
-- The absolute legend position in ordinate coordinate level 
-- Individual normalization parameter (1 or 2 for constant/linear normalization): without effect if the command line option `-n` or `-nn` is used
+1. The legend for the spectrum  
+2. The unit of wavelength: in Angström [Å|A|a] or in nanometer [nm] (Default)  
+3. The symbol used for plotting spectrum (e.g. '`r+`' for red line with plusses, '`k-`' for black line,...)  
+4. The wavelength shift in Å (only useful for plotting a specific line, to improve for radial velocity correction)  
+5. Save option (True|False): post-processed spectrum in written in ASCII format  
+6. Individual broadening parameter (dispersion in km/s): without effect if the line command option `-b` is used  
+7. The group option: integer which specifies at which group among a spectrum (useful with `-vs` line command argument)
+8. The absolute legend position in ordinate coordinate level 
+9. Individual normalization parameter (1 or 2 for constant/linear normalization): without effect if the command line option `-n` or `-nn` is used
 
 You can comment a line using \# character.  
 All parameters are optional.  
@@ -177,14 +177,14 @@ E.g:
     bs/sun_kpno.bin | | |'r-'|
 
 Default options:  
-- legend: None  
-- unit of wavelenght: Å  
-- symbol: matplotlib default  
-- wavelength shift: 0 Å  
-- save: False  
-- broadening: 0 km/s  
-- group option: None  
-- absolute legend position: None  
+1. legend: None  
+2. unit of wavelenght: Å  
+3. symbol: matplotlib default  
+4. wavelength shift: 0 Å  
+5. save: False  
+6. broadening: 0 km/s  
+7. group option: None  
+8. absolute legend position: None  
 
 An example of an extensive input file:
 
