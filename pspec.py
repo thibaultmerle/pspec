@@ -64,7 +64,7 @@ def load_fits(finp, verb, extn):
     except:
         naxis = pl.size(flux)
 
-   if ctype not in ["", None, "WAVELENGTH", "WAVELENGTH [A]", "AWAV", "LINEAR", "ANGSTROM", "log(wavelength)"]:
+    if ctype not in ["", None, "WAVELENGTH", "WAVELENGTH [A]", "AWAV", "LINEAR", "ANGSTROM", "log(wavelength)"]:
         print "CTYPE1 = "+ctype+" not yet implemented."
         quit(1)
 
