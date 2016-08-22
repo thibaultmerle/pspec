@@ -805,6 +805,12 @@ if __name__ == "__main__":
         if not isinstance(wave, pl.ndarray) or not isinstance(flux, pl.ndarray):
             continue
 
+        # Linear spacing option
+        if nu:
+            nu = int(nu)
+            print "Constant interpolation of wavelength points"
+            wave, flux = uniform_wave(wave, flux, lbdmin, lbdmax, n=nu)
+
         # Broadening option
         if broad:
             print "Change the resolution of the spectrum"
@@ -846,14 +852,6 @@ if __name__ == "__main__":
         if norm or normlist[ind]:
             if nog:
                 pl.plot(wave, pl.ones(len(wave))+ind*vshift, ':', color='grey')
-
-        # Linear spacing option
-        if nu:
-            nu = int(nu)
-            print "Constant interpolation of wavelength points"
-            wave, flux = uniform_wave(wave, flux, lbdmin, lbdmax, n=nu)
-
-
 
         # Shift option and group of spectra
         if vshift != 0.0:

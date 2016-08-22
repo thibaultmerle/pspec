@@ -6,7 +6,7 @@
 ![alt text](http://www.astro.ulb.ac.be/~merle/pmwiki/pub/ani/dwarfs_c_c2_ch.gif "Pspec")
 
 
-`pspec` is a versatile line command tool for interactive plotting and comparing stellar spectra.  
+`pspec` is a versatile line command tool for interactive plotting and comparison of stellar spectra.  
 To get help on line command arguments, type `pspec.py -h`  
 Write an output plot in plot.png (see `-o` option for specifying name and extension [eps|pdf|png]) 
 
