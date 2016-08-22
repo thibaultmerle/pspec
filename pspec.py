@@ -64,9 +64,9 @@ def load_fits(finp, verb, extn):
     except:
         naxis = pl.size(flux)
 
-    if ctype not in ["", None, "WAVELENGTH", "WAVELENGTH [A]", "AWAV", "LINEAR", "ANGSTROM", "log(wavelength)"]:
-        print "CTYPE1 = "+ctype+" not yet implemented."
-        quit(1)
+    #    if ctype not in ["", None, "WAVELENGTH", "WAVELENGTH [A]", "AWAV", "LINEAR", "ANGSTROM", "log(wavelength)"]:
+    #        print "CTYPE1 = "+ctype+" not yet implemented."
+    #        quit(1)
 
     wave_start = crval - (crpix - 1)*cdelt
     wave_final = wave_start + (naxis-1)*cdelt
@@ -89,7 +89,7 @@ def load_fits(finp, verb, extn):
 def cosmic_rejection(x, y, n):
     '''Try to reject cosmic from a spectrum
     '''
-    bla = False
+    bla = True
     blabla = False
 
     if n == 0:
@@ -280,8 +280,11 @@ def get_data(ifname):
     elif ext in ['fits', 'fit']:
         data = load_fits(ifname, False, extn)
     else:
-        print "Unknown format of input spectra."
-        quit(1)
+        try: 
+            data = pl.loadtxt(ifname)
+        except:
+            print "Unknown format of input spectra."
+            quit(1)
 
     # Remove possible nan in the input data
     idx, = pl.where(data[:, 1] == data[:, 1]) # idx is a tuple
@@ -599,7 +602,7 @@ if __name__ == "__main__":
     dft_lbd = 6569.214    # Default central wavelength on Fe I line in the red wing of Halpha
     dft_lbdrange = 20.001 # Default wavelength range
     dft_dlbd_bdn = 3.0    # Default larger of the border for broadening
-    dft_sig_rej = 3.0     # Default sigma for rejecting cosmics
+    dft_sig_rej = 1.0     # Default sigma for rejecting cosmics
     dft_ln = 1.0         # Y value for the name of lines when -l is used
 
     ll0name = '/home/tmerle/development/pspec/ll/ll_fraunhofer.dat'
@@ -621,7 +624,7 @@ if __name__ == "__main__":
     parser.add_argument('-n', '--normalize', action='count', default=None, help='Simple normalization [n constant | nn linear]')
     parser.add_argument('-vs', '--vshift', type=float, default=0., help='Vertical shift for normalize spectra')
     parser.add_argument('-b', '--broadening', type=float, default=None, help='standard deviation of a normalized gaussian function [km/s] for convolution (overides broadening value if given in the input file)')
-    parser.add_argument('-l', '--linelist', nargs='?', const=llname, help='Display linelist (default: '+llname+')')
+    parser.add_argument('-l', '--linelist', nargs='?', const=ll0name, help='Display linelist (default: '+ll0name+')')
     parser.add_argument('-ln', '--linename', type=float, default=dft_ln, help='Ordinate position of line names when -l option is used (default:'+str(dft_ln)+')')
     parser.add_argument('-nu', '--nb_of_uniform_points', type=float, default=None, help='Number of desired uniform wavelength points')
     parser.add_argument('-nop', '--noplot', action='store_true', default=False, help='No interactive plot')
@@ -746,12 +749,14 @@ if __name__ == "__main__":
         pass
 
     pl.xlim(lbdmin0, lbdmax0)
-    pl.xlabel('$\lambda$ [$\AA$]')
+    #pl.xlabel('$\lambda$ [$\AA$]')
+    pl.xlabel(u'\u03BB'+' ['+u'\u00C5'+']')
 
     if norm and not vshift:
         pl.ylabel('Normalized flux')
     else:
-        pl.ylabel('Flux [Arbitrary Unit]')
+        pl.ylabel('Flux')
+        #pl.ylabel('Flux [Arbitrary Unit]')
 
     # Grid option
     if not nog:
@@ -800,6 +805,17 @@ if __name__ == "__main__":
         if not isinstance(wave, pl.ndarray) or not isinstance(flux, pl.ndarray):
             continue
 
+        # Broadening option
+        if broad:
+            print "Change the resolution of the spectrum"
+            if not nu:
+                wave, flux = uniform_wave(wave, flux, lbdmin, lbdmax)
+            flux = broadgauss(wave, flux, broad)
+        elif broadlist[ind]:
+        # in  [True, 'True', 'T', 'true']:
+            print "Smooth the spectrum"
+            flux = broadgauss(wave, flux, float(broadlist[ind]))
+
         # Cosmics rejection (points with flux larger than n sigma from the mean
         #                    are rejected for the continuum determination)
         #if norm:
@@ -837,16 +853,7 @@ if __name__ == "__main__":
             print "Constant interpolation of wavelength points"
             wave, flux = uniform_wave(wave, flux, lbdmin, lbdmax, n=nu)
 
-        # Broadening option
-        if broad:
-            print "Change the resolution of the spectrum"
-            if not nu:
-                wave, flux = uniform_wave(wave, flux, lbdmin, lbdmax)
-            flux = broadgauss(wave, flux, broad)
-        elif broadlist[ind]:
-        # in  [True, 'True', 'T', 'true']:
-            print "Smooth the spectrum"
-            flux = broadgauss(wave, flux, float(broadlist[ind]))
+
 
         # Shift option and group of spectra
         if vshift != 0.0:
@@ -856,7 +863,7 @@ if __name__ == "__main__":
                 # Useful to know where plot legend entries
                 meanfluxlist.append(pl.mean(flux))
             else:
-                flux = flux + ind*vshift
+                flux = flux + (ind+1)*vshift
                 fluxmax = max(flux[msk])
                 # Useful to know where plot legend entries
                 meanfluxlist.append(pl.mean(flux))
@@ -1021,7 +1028,7 @@ if __name__ == "__main__":
         ext = ext[1:]
         if ext in ['png', 'eps', 'pdf']:
             ofname = ofname + '.' + ext
-            if ext == 'eps':
+            if ext == 'eps' or ext == 'pdf':
                 pl.savefig(ofname, dpi=100, format=ext, orientation='landscape', bbox_inches='tight')
             else:
                 pl.savefig(ofname, dpi=100, format=ext, orientation='landscape')

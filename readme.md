@@ -144,7 +144,7 @@ How to configure an input file?
 The simplest way to do is to set one path and spectrum name per entries.  
 You do NOT have to use quotes since all parameters are read as strings.
 
-E.g:
+e.g:
 
     $ cat my_speclist.txt
     bs/sun_kpno.bin
@@ -166,7 +166,7 @@ The order of the parameters matters.
 
 You can comment a line using \# character.  
 All parameters are optional.  
-If you need the 3rd parameter just let field empty not forgetting fied separator.  
+If you need the 3rd parameter just let field empty not forgetting field separator.  
 E.g:
 
     $ cat speclist.txt  
